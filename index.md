@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-ABOUT ME:
+## ABOUT ME:
 
 Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combined and well-rounded banking experience within personal and small business banking, residential mortgage origination as well as commercial lending, business analysis, and reporting. Natural investigator with a strong understanding of fraud risk and anti-money laundering (AML) prevention and detection within financial institutions. Brings forth an Honors Bachelor of Commerce degree with a specialization in accounting and minor in economics. Solutions-oriented leader with proven expertise in analysis and problem solving. Proven expertise in complex and alternative credit deals. Excels in high volume underwriting in an efficient and thorough manner while effectively managing relationships and maintaining customer experience standards.
 
-**bold**EDUCATION
+## EDUCATION:
 
-Honours Bachelor of Commerce (Specialization in Accounting, Minor in Economics)                            
+**bold** Honours Bachelor of Commerce (Specialization in Accounting, Minor in Economics)                            
 McMaster University, Hamilton, Ontario
-November 2016			
+*italic* November 2016			
 		   			  
-Certified Anti-Money Laundering Specialist (CAMS) 				                                  
-In Progress
+**bold** Certified Anti-Money Laundering Specialist (CAMS) 				                                  
+*italic* In Progress
 
 ## Header 2
 
