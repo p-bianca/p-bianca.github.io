@@ -30,11 +30,12 @@ G Suite, Microsoft Office, Excel (VLOOKUP, Pivot Tables) • SQL • Filogix •
 
 **Senior Mortgage Underwriter**
 *Toronto, Ontario/Calgary, Alberta* 
+<font size= "2">
 •	Efficiently adjudicates deals to highest credit quality standards within authorized limit while proactively managing risk  
 •	Cultivates productive relationships with broker partners, internal mortgage agents and related business cohorts, resulting in continuous support and further growth to the bank’s book of business  
 •	Exemplifies a detailed working knowledge of AML/fraud risk through identifying cues of suspicious activity and using investigative techniques to gather, analyze and document relevant data for compliance and quality assurance 
 •	Implements a solutions-based approach to all mortgage applications, demonstrating a strong ability to structure and rework loans in adherence with the bank’s policy and guidelines 
-
+</font>
 **FirstOntario Credit Union**	                  June 2016 – May 2021
 
 **Commercial Business Analyst** 	              March 2020 – May 2021
