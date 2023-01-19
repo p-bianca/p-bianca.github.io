@@ -19,10 +19,10 @@ platforms:
     link: https://www.linkedin.com/in/vaibhavvikas
 
 navigation:
-  - name: Readme
+  - name: Resume
     link: ./index.html
     sublist:
       - name: Image
         link: ./index.html#small-image
-  - name: Another Page
+  - name: Projects
     link: ./another-page.html
