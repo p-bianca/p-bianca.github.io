@@ -12,7 +12,7 @@ plugins:
 
 platforms:
   - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
+    icon: <a href="https://en.wikipedia.org/wiki/Boracay" target="_blank"><img src="//www.html.am/images/html-codes/links/boracay-white-beach-sunset-300x225.jpg" width="300" height="225" alt="Photo of White Beach in Boracay, Philippines" /></a>
     link: https://p-bianca.github.io
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
