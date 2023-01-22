@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-<body style="background-color:#f5f5ef;">
-</body>
-<p style="color:black">
-<font size = "2"></font>
+<body style="background-color:#222222;">
+
 ## ABOUT ME
 
 <font size= "2"> Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combined and well-rounded banking experience within personal and small business banking, residential mortgage origination as well as commercial lending, business analysis, and reporting. Natural investigator with a strong understanding of fraud risk and anti-money laundering (AML) prevention and detection within financial institutions. Brings forth an Honors Bachelor of Commerce degree with a specialization in accounting and minor in economics. Solutions-oriented leader with proven expertise in analysis and problem solving. Proven expertise in complex and alternative credit deals. Excels in high volume underwriting in an efficient and thorough manner while effectively managing relationships and maintaining customer experience standards.</font>
@@ -59,4 +57,3 @@ o	Exercises a high degree of due diligence and attention to detail in assessing 
 •	Consistently provided trademark customer service by ensuring a positive client experience at every interaction 
 •	Acted as a mentor to 2 colleagues as a seasoned employee translating to outstanding team results across the organization
 
-</p>
