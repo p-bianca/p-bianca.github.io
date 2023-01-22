@@ -25,6 +25,9 @@ Examples of use cases:
 
 &emsp; As a quick synopsis, I created a relational database for mortgage brokerage. Only mock data was used in the creation of this project. 
 
+
+![Branching](https://imgur.com/a/vbw2WQ1)
+
 ****
 
 [back](./)
