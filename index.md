@@ -9,28 +9,28 @@ layout: default
 
 ## EDUCATION
 
-**Honours Bachelor of Commerce (Specialization in Accounting, Minor in Economics)**                            
+<font size= "2">**Honours Bachelor of Commerce (Specialization in Accounting, Minor in Economics)**                            
 McMaster University, Hamilton, Ontario
 *November 2016*			
 		   			  
 **Certified Anti-Money Laundering Specialist (CAMS)** 				                                  
-*In Progress*
+*In Progress*</font>
 
 ****
 
 ## SKILLS
 
-G Suite, Microsoft Office, Excel (VLOOKUP, Pivot Tables) • SQL • Filogix • Equifax/Transunion • AML/FINTRAC • risk management • financial statements and business analysis • relationship management • debt structuring • regulations/compliance 
+<font size= "2"> G Suite, Microsoft Office, Excel (VLOOKUP, Pivot Tables) • SQL • Filogix • Equifax/Transunion • AML/FINTRAC • risk management • financial statements and business analysis • relationship management • debt structuring • regulations/compliance </font>
 
 ****
 
 ### PROFESSIONAL EXPERIENCE
 
-**RFA Bank of Canada**	                        May 2021 – Present
+<font size= "2">**RFA Bank of Canada**	                        May 2021 – Present
 
 **Senior Mortgage Underwriter**
 *Toronto, Ontario/Calgary, Alberta* 
-<font size= "2">
+
 •	Efficiently adjudicates deals to highest credit quality standards within authorized limit while proactively managing risk  
 •	Cultivates productive relationships with broker partners, internal mortgage agents and related business cohorts, resulting in continuous support and further growth to the bank’s book of business  
 •	Exemplifies a detailed working knowledge of AML/fraud risk through identifying cues of suspicious activity and using investigative techniques to gather, analyze and document relevant data for compliance and quality assurance 
@@ -52,8 +52,7 @@ o	Exercises a high degree of due diligence and attention to detail in assessing 
 •	Established a reputation as a top performer in sales within the organization through in-depth product knowledge, effective customer relationship management and ability to identify opportunities, generate leads and close sales
 •	Consistently provided trademark customer service by ensuring a positive client experience at every interaction 
 •	Acted as a mentor to 2 colleagues as a seasoned employee translating to outstanding team results across the organization
-
-
+</font>
 
 
 ```js
