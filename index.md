@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<body style="background-color:#413C33;"></body>
+<body style="background-color:#00999D;"></body>
 
 ## ABOUT ME
 
