@@ -19,13 +19,7 @@ platforms:
     link: https://www.linkedin.com/in/p-bianca
 
 navigation:
-  - name: Readme
+  - name: SQL
     link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
+  - name: Data Visualization
     link: ./another-page.html
