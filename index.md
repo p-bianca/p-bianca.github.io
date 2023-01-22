@@ -53,10 +53,10 @@ layout: default
 *Burlington, Ontario* 
 &nbsp;
 <font size= "2">
-•	Showcased strong analytical and problem-solving skills when conducting a myriad of detailed annual reviews of medium to high complexity across a variety of asset classes surpassing a combined exposure of $800MM to date
-o	Expertise includes but is not limited to syndicated loans, commercial plazas, residential rental properties, hospitality operations, retirement homes, as well as residential and commercial construction projects
-•	Demonstrated strong credit acumen when evaluating risk and reward when preparing high quality proposals for new loans
-o	Exercises a high degree of due diligence and attention to detail in assessing quantitative and qualitative data as well as corporate financial statements and credit reports 
+* Showcased strong analytical and problem-solving skills when conducting a myriad of detailed annual reviews of medium to high complexity across a variety of asset classes surpassing a combined exposure of $800MM to date
+* Expertise includes but is not limited to syndicated loans, commercial plazas, residential rental properties, hospitality operations, retirement homes, as well as residential and commercial construction projects
+*	Demonstrated strong credit acumen when evaluating risk and reward when preparing high quality proposals for new loans
+*	Exercises a high degree of due diligence and attention to detail in assessing quantitative and qualitative data as well as corporate financial statements and credit reports 
 </font>
 
 &nbsp;
