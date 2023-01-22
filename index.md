@@ -26,7 +26,7 @@ layout: default
 
 ### PROFESSIONAL EXPERIENCE
 
-**RFA Bank of Canada**	                        May 2021 – Present
+**##RFA BANK OF CANADA**	                        May 2021 – Present
 
 **Senior Mortgage Underwriter**
 
@@ -39,7 +39,7 @@ layout: default
 •	Implements a solutions-based approach to all mortgage applications, demonstrating a strong ability to structure and rework loans in adherence with the bank’s policy and guidelines 
 
 
-**FirstOntario Credit Union**	                  June 2016 – May 2021
+**##FIRSTONTARIO CREDIT UNION**	                  June 2016 – May 2021
 
 **Commercial Business Analyst** 	              March 2020 – May 2021
 
@@ -52,6 +52,7 @@ o	Expertise includes but is not limited to syndicated loans, commercial plazas, 
 o	Exercises a high degree of due diligence and attention to detail in assessing quantitative and qualitative data as well as corporate financial statements and credit reports 
 
 **Member Consultant**	                          June 2016 – March 2020
+
 *Oakville, Ontario* 
 &nbsp;
 
