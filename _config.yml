@@ -24,7 +24,7 @@ navigation:
     sublist:
       - name: Image
         link: ./index.html#small-image
-        sublist:
+    sublist:
       - name: Image
         link: ./index.html#small-image
   - name: Another Page
