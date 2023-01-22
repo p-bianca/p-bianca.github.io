@@ -9,12 +9,12 @@ layout: default
 
 ## EDUCATION
 
-<font size= "2">**Honours Bachelor of Commerce (Specialization in Accounting, Minor in Economics)**                            
-McMaster University, Hamilton, Ontario
-*November 2016*			
+**Honours Bachelor of Commerce (Specialization in Accounting, Minor in Economics)**                            
+<font size= "2">McMaster University, Hamilton, Ontario
+*November 2016*			</font>
 		   			  
 **Certified Anti-Money Laundering Specialist (CAMS)** 				                                  
-*In Progress*</font>
+<font size= "2">*In Progress*</font>
 
 ****
 
@@ -26,11 +26,11 @@ McMaster University, Hamilton, Ontario
 
 ### PROFESSIONAL EXPERIENCE
 
-<font size= "2">**RFA Bank of Canada**	                        May 2021 – Present
+**RFA Bank of Canada**	                        May 2021 – Present
 
 **Senior Mortgage Underwriter**
 *Toronto, Ontario/Calgary, Alberta* 
-
+<font size= "2">
 •	Efficiently adjudicates deals to highest credit quality standards within authorized limit while proactively managing risk  
 •	Cultivates productive relationships with broker partners, internal mortgage agents and related business cohorts, resulting in continuous support and further growth to the bank’s book of business  
 •	Exemplifies a detailed working knowledge of AML/fraud risk through identifying cues of suspicious activity and using investigative techniques to gather, analyze and document relevant data for compliance and quality assurance 
@@ -40,14 +40,17 @@ McMaster University, Hamilton, Ontario
 **FirstOntario Credit Union**	                  June 2016 – May 2021
 
 **Commercial Business Analyst** 	              March 2020 – May 2021
+<font size= "2">
 *Burlington, Ontario* 
 •	Showcased strong analytical and problem-solving skills when conducting a myriad of detailed annual reviews of medium to high complexity across a variety of asset classes surpassing a combined exposure of $800MM to date
 o	Expertise includes but is not limited to syndicated loans, commercial plazas, residential rental properties, hospitality operations, retirement homes, as well as residential and commercial construction projects
 •	Demonstrated strong credit acumen when evaluating risk and reward when preparing high quality proposals for new loans
 o	Exercises a high degree of due diligence and attention to detail in assessing quantitative and qualitative data as well as corporate financial statements and credit reports 
+</font>
 
 **Member Consultant**	                          June 2016 – March 2020
 *Oakville, Ontario* 
+<font size= "2">
 •	Showcased a high level of expertise in real estate secured lending through underwriting numerous traditional and alternative personal credit applications that materialized into over $100MM in new business
 •	Substantially expedited the underwriting process by 60% which improved team efficiency and customer satisfaction
 •	Established a reputation as a top performer in sales within the organization through in-depth product knowledge, effective customer relationship management and ability to identify opportunities, generate leads and close sales
