@@ -19,7 +19,5 @@ platforms:
     link: https://www.linkedin.com/in/p-bianca
 
 navigation:
-  - name: SQL
+  - name: SQL, Data Visualization
     link: ./another-page.html
-  - name: Data Visualization
-    link: ./another-page2.html

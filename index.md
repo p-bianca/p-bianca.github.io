@@ -62,7 +62,7 @@ layout: default
 &nbsp;
 
 
-**Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2016 – March 2020
+**Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2016 – March 2020
 
 *Oakville, Ontario* 
 &nbsp;
