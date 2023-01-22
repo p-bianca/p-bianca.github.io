@@ -29,7 +29,7 @@ layout: default
 
 ### PROFESSIONAL EXPERIENCE
 
-**RFA BANK OF CANADA**	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2021 – Present
+**RFA BANK OF CANADA**	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2021 – Present
 
 **Senior Mortgage Underwriter**
 
