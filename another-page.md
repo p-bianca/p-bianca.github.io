@@ -2,28 +2,28 @@
 layout: post
 ---
 
-## Welcome to another page
-
-_yay_
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 <body style="background-color:#006366;"></body>
 
-## ABOUT ME
+## INTRODUCTION
 
-<font size= "2"> 
-&emsp; Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combined and well-rounded banking experience within personal and small business banking, residential mortgage origination as well as commercial lending, business analysis, and reporting. Natural investigator with a strong understanding of fraud risk and anti-money laundering (AML) prevention and detection within financial institutions. Brings forth an Honors Bachelor of Commerce degree with a specialization in accounting and minor in economics. Solutions-oriented leader with proven expertise in analysis and problem solving. Proven expertise in complex and alternative credit deals. Excels in high volume underwriting in an efficient and thorough manner while effectively managing relationships and maintaining customer experience standards..........</font>
+## Bank Data Analysis Project
+
+&emsp; This is a brief outline of the project as this particular project is company-related (and therefore proprietary). 
+I've put together this creating a relational database, running queries through SQL to gain meaningful insights and visualizing the data through Tableau. 
+
+Examples of use cases: 
+* Outline the number of funded loans by underwriter on a monthly and yearly basis to measure output across the team to measure performance 
+* Determine the average interest rate by underwriter relative to the average rate across the entire team
+* Rank the top 10 brokers by the number of loans funded for the year as well as the cumulative total dollar amount of funded loans 
+* Isolate the percentage of deals declined relative to deals actioned by each underwriter 
+* Measure the quality and accuracy of each underwriter based on their respective compliance scores for deals funded 
+* List brokers by rate of declines relative to submissions to determine opportunities for coaching 
 
 *****
 
-## EDUCATION
+## Mortgage Brokerage Analysis Project
 
-**Honours Bachelor of Commerce** 
-**(Specialization in Accounting, Minor in Economics)**  <font size= "2"> McMaster University, Hamilton, Ontario *November 2016*
-</font>
-		   			  
-**Certified Anti-Money Laundering Specialist (CAMS)** <font size= "2"> *In Progress*
-</font>
+&emsp; As a quick synopsis, I created a relational database for mortgage brokerage. Only mock data was used in the creation of this project. 
 
 ****
 
