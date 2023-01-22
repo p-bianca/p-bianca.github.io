@@ -19,18 +19,6 @@ platforms:
     link: https://www.linkedin.com/in/p-bianca
 
 navigation:
-  - name: Projects
-    link: ./index.html
-    - sublist:
-      - name: SQL
-        link: ./index.html#small-image
-
-  - sublist:
-      - name: SQL
-        link: ./index.html#small-image
-
-
-navigation:
   - name: Readme
     link: ./index.html
     sublist:
