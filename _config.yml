@@ -21,9 +21,10 @@ platforms:
 navigation:
   - name: Projects
     link: ./index.html
-    sublist:
+    - sublist:
       - name: SQL
         link: ./index.html#small-image
-    sublist:
-      - name: Data Visualization
+
+  - sublist:
+      - name: SQL
         link: ./index.html#small-image

@@ -52,6 +52,7 @@ o	Expertise includes but is not limited to syndicated loans, commercial plazas, 
 •	Demonstrated strong credit acumen when evaluating risk and reward when preparing high quality proposals for new loans
 o	Exercises a high degree of due diligence and attention to detail in assessing quantitative and qualitative data as well as corporate financial statements and credit reports 
 </font>
+&nbsp;
 
 **Member Consultant**	                          June 2016 – March 2020
 
