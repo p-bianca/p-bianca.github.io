@@ -3,7 +3,7 @@ layout: default
 ---
 <body style="background-color:#f5f5ef;">
 </body>
-<p style="color:black"></p>
+<p style="color:black">
 <font size = "2"></font>
 ## ABOUT ME
 
@@ -59,3 +59,4 @@ o	Exercises a high degree of due diligence and attention to detail in assessing 
 •	Consistently provided trademark customer service by ensuring a positive client experience at every interaction 
 •	Acted as a mentor to 2 colleagues as a seasoned employee translating to outstanding team results across the organization
 
+</p>
