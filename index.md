@@ -13,9 +13,11 @@ layout: default
 ## EDUCATION
 
 **Honours Bachelor of Commerce** 
-**(Specialization in Accounting, Minor in Economics)**  <font size= "2">McMaster University, Hamilton, Ontario *November 2016*</font>
+**(Specialization in Accounting, Minor in Economics)**  <font size= "2"> McMaster University, Hamilton, Ontario *November 2016*
+</font>
 		   			  
-**Certified Anti-Money Laundering Specialist (CAMS)** <font size= "2">*In Progress*</font>
+**Certified Anti-Money Laundering Specialist (CAMS)** <font size= "2"> *In Progress*
+</font>
 
 ****
 
@@ -27,7 +29,7 @@ layout: default
 
 ### PROFESSIONAL EXPERIENCE
 
-**RFA BANK OF CANADA**	                        May 2021 – Present
+**RFA BANK OF CANADA**	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2021 – Present
 
 **Senior Mortgage Underwriter**
 
@@ -44,7 +46,7 @@ layout: default
 &nbsp;
 
 
-**FIRSTONTARIO CREDIT UNION**	                  June 2016 – May 2021
+**FIRSTONTARIO CREDIT UNION** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; June 2016 – May 2021
 
 **Commercial Business Analyst** 	              March 2020 – May 2021
 
