@@ -12,10 +12,9 @@ layout: default
 ## EDUCATION
 
 **Honours Bachelor of Commerce** 
-**(Specialization in Accounting, Minor in Economics)**                            
-<font size= "2">McMaster University, Hamilton, Ontario                         *November 2016*			</font>
+**(Specialization in Accounting, Minor in Economics)**  <font size= "2">McMaster University, Hamilton, Ontario *November 2016*</font>
 		   			  
-**Certified Anti-Money Laundering Specialist (CAMS)** 				 <font size= "2">*In Progress*</font>
+**Certified Anti-Money Laundering Specialist (CAMS)** <font size= "2">*In Progress*</font>
 
 ****
 
@@ -32,6 +31,8 @@ layout: default
 **Senior Mortgage Underwriter**
 
 *Toronto, Ontario/Calgary, Alberta* 
+&nbsp;
+
 •	Efficiently adjudicates deals to highest credit quality standards within authorized limit while proactively managing risk  
 •	Cultivates productive relationships with broker partners, internal mortgage agents and related business cohorts, resulting in continuous support and further growth to the bank’s book of business  
 •	Exemplifies a detailed working knowledge of AML/fraud risk through identifying cues of suspicious activity and using investigative techniques to gather, analyze and document relevant data for compliance and quality assurance 
@@ -43,6 +44,8 @@ layout: default
 **Commercial Business Analyst** 	              March 2020 – May 2021
 
 *Burlington, Ontario* 
+&nbsp;
+
 •	Showcased strong analytical and problem-solving skills when conducting a myriad of detailed annual reviews of medium to high complexity across a variety of asset classes surpassing a combined exposure of $800MM to date
 o	Expertise includes but is not limited to syndicated loans, commercial plazas, residential rental properties, hospitality operations, retirement homes, as well as residential and commercial construction projects
 •	Demonstrated strong credit acumen when evaluating risk and reward when preparing high quality proposals for new loans
@@ -50,6 +53,7 @@ o	Exercises a high degree of due diligence and attention to detail in assessing 
 
 **Member Consultant**	                          June 2016 – March 2020
 *Oakville, Ontario* 
+&nbsp;
 
 •	Showcased a high level of expertise in real estate secured lending through underwriting numerous traditional and alternative personal credit applications that materialized into over $100MM in new business
 •	Substantially expedited the underwriting process by 60% which improved team efficiency and customer satisfaction
