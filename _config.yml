@@ -16,13 +16,14 @@ platforms:
     link: https://p-bianca.github.io
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/p-bianca
 
 navigation:
-  - name: Resume
+  - name: Projects
     link: ./index.html
     sublist:
-      - name: Image
+      - name: SQL
         link: ./index.html#small-image
-  - name: Projects
-    link: ./another-page.html
+    sublist:
+      - name: Data Visualization
+        link: ./index.html#small-image
