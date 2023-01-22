@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<body style="background-color:powderblue;">
+<body style="background-color:#f5f5ef;">
+</body>
 
 ## ABOUT ME
 
@@ -65,4 +66,3 @@ o	Exercises a high degree of due diligence and attention to detail in assessing 
 •	Acted as a mentor to 2 colleagues as a seasoned employee translating to outstanding team results across the organization
 </font></p>
 
-</body>
