@@ -20,6 +20,6 @@ platforms:
 
 navigation:
   - name: SQL
-    link: ./sql.html
+    link: ./another-page.html
   - name: Data Visualization
     link: ./datavisualization.html
