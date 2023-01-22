@@ -42,6 +42,7 @@ layout: default
 *	Cultivates productive relationships with broker partners, internal mortgage agents and related business cohorts, resulting in continuous support and further growth to the bank’s book of business  
 *	Exemplifies a detailed working knowledge of AML/fraud risk through identifying cues of suspicious activity and using investigative techniques to gather, analyze and document relevant data for compliance and quality assurance 
 *	Implements a solutions-based approach to all mortgage applications, demonstrating a strong ability to structure and rework loans in adherence with the bank’s policy and guidelines 
+
 </font>
 
 &nbsp;
@@ -59,6 +60,7 @@ a combined exposure of $800MM to date
     *   Expertise includes but is not limited to syndicated loans, commercial plazas, residential rental properties, hospitality operations, retirement homes, as well as residential and commercial construction projects
 *	Demonstrated strong credit acumen when evaluating risk and reward when preparing high quality proposals for new loans
     *	Exercises a high degree of due diligence and attention to detail in assessing quantitative and qualitative data as well as corporate financial statements and credit reports 
+
 </font>
 
 &nbsp;
@@ -75,4 +77,5 @@ a combined exposure of $800MM to date
 * Established a reputation as a top performer in sales within the organization through in-depth product knowledge, effective customer relationship management and ability to identify opportunities, generate leads and close sales
 * Consistently provided trademark customer service by ensuring a positive client experience at every interaction 
 * Acted as a mentor to 2 colleagues as a seasoned employee translating to outstanding team results across the organization
+
 </font>
