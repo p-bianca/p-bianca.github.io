@@ -53,7 +53,9 @@ layout: default
 **Commercial Business Analyst** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  March 2020 – May 2021
 
 *Burlington, Ontario* 
-&nbsp;<font size= "2">
+&nbsp;
+
+<font size= "2">
 
 * Showcased strong analytical and problem-solving skills when conducting a myriad of detailed annual reviews of medium to high complexity across a variety of asset classes surpassing
 a combined exposure of $800MM to date        
@@ -66,7 +68,7 @@ a combined exposure of $800MM to date
 &nbsp;
 
 
-**Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  June 2016 – March 2020
+**Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   June 2016 – March 2020
 
 *Oakville, Ontario* 
 &nbsp;
