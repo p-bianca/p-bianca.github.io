@@ -29,7 +29,7 @@ layout: default
 
 ### PROFESSIONAL EXPERIENCE
 
-**RFA BANK OF CANADA**	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2021 – Present
+**RFA BANK OF CANADA**	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2021 – Present
 
 **Senior Mortgage Underwriter**
 
@@ -48,7 +48,7 @@ layout: default
 
 **FIRSTONTARIO CREDIT UNION** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; June 2016 – May 2021
 
-**Commercial Business Analyst** 	              March 2020 – May 2021
+**Commercial Business Analyst** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; March 2020 – May 2021
 
 *Burlington, Ontario* 
 &nbsp;
@@ -62,7 +62,7 @@ o	Exercises a high degree of due diligence and attention to detail in assessing 
 &nbsp;
 
 
-**Member Consultant**	                          June 2016 – March 2020
+**Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2016 – March 2020
 
 *Oakville, Ontario* 
 &nbsp;
