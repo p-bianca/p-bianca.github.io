@@ -29,7 +29,9 @@ layout: default
 <font size="5">
 **RFA Bank of Canada**	                        May 2021 – Present
 </font>
+
 **Senior Mortgage Underwriter**
+
 *Toronto, Ontario/Calgary, Alberta* 
 <font size= "2">
 •	Efficiently adjudicates deals to highest credit quality standards within authorized limit while proactively managing risk  
@@ -39,10 +41,13 @@ layout: default
 </font>
 
 <font size="5">
+
 **FirstOntario Credit Union**	                  June 2016 – May 2021
 </font>
+
 **Commercial Business Analyst** 	              March 2020 – May 2021
 <font size= "2">
+
 *Burlington, Ontario* 
 •	Showcased strong analytical and problem-solving skills when conducting a myriad of detailed annual reviews of medium to high complexity across a variety of asset classes surpassing a combined exposure of $800MM to date
 o	Expertise includes but is not limited to syndicated loans, commercial plazas, residential rental properties, hospitality operations, retirement homes, as well as residential and commercial construction projects
