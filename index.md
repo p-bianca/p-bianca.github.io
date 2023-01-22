@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<body style="background-color:powderblue;">
+
 ## ABOUT ME
 
 <font size= "2"> Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combined and well-rounded banking experience within personal and small business banking, residential mortgage origination as well as commercial lending, business analysis, and reporting. Natural investigator with a strong understanding of fraud risk and anti-money laundering (AML) prevention and detection within financial institutions. Brings forth an Honors Bachelor of Commerce degree with a specialization in accounting and minor in economics. Solutions-oriented leader with proven expertise in analysis and problem solving. Proven expertise in complex and alternative credit deals. Excels in high volume underwriting in an efficient and thorough manner while effectively managing relationships and maintaining customer experience standards.</font>
@@ -9,12 +11,11 @@ layout: default
 
 ## EDUCATION
 
-**Honours Bachelor of Commerce (Specialization in Accounting, Minor in Economics)**                            
-<font size= "2">McMaster University, Hamilton, Ontario
-*November 2016*			</font>
+**Honours Bachelor of Commerce** 
+**(Specialization in Accounting, Minor in Economics)**                            
+<font size= "2">McMaster University, Hamilton, Ontario                         *November 2016*			</font>
 		   			  
-**Certified Anti-Money Laundering Specialist (CAMS)** 				                                  
-<font size= "2">*In Progress*</font>
+**Certified Anti-Money Laundering Specialist (CAMS)** 				 <font size= "2">*In Progress*</font>
 
 ****
 
@@ -25,9 +26,9 @@ layout: default
 ****
 
 ### PROFESSIONAL EXPERIENCE
-
+<font size="5">
 **RFA Bank of Canada**	                        May 2021 – Present
-
+</font>
 **Senior Mortgage Underwriter**
 *Toronto, Ontario/Calgary, Alberta* 
 <font size= "2">
@@ -37,8 +38,9 @@ layout: default
 •	Implements a solutions-based approach to all mortgage applications, demonstrating a strong ability to structure and rework loans in adherence with the bank’s policy and guidelines 
 </font>
 
+<font size="5">
 **FirstOntario Credit Union**	                  June 2016 – May 2021
-
+</font>
 **Commercial Business Analyst** 	              March 2020 – May 2021
 <font size= "2">
 *Burlington, Ontario* 
@@ -57,3 +59,5 @@ o	Exercises a high degree of due diligence and attention to detail in assessing 
 •	Consistently provided trademark customer service by ensuring a positive client experience at every interaction 
 •	Acted as a mentor to 2 colleagues as a seasoned employee translating to outstanding team results across the organization
 </font>
+
+</body>
