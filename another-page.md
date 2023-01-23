@@ -50,9 +50,11 @@ ORDER BY totaldeals DESC LIMIT 10;
 ```
 <img src="joins.png" width="200" />
 
-The below query quantifies the grand total of funded loans per province and orders them from lowest to highest.
 
 ## <font size = "2"> Aggregate functions ft. the WHERE clause </font>
+
+The below query quantifies the grand total of funded loans per province and orders them from lowest to highest.
+
 ```sql
 SELECT 
     SUM(loanamount) AS totalfunded, province
