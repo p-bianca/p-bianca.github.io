@@ -73,7 +73,7 @@ a combined exposure of $800MM to date
 *Oakville, Ontario* 
 &nbsp;
 
-* </font>Showcased a high level of expertise in real estate secured lending through underwriting numerous traditional and alternative personal credit applications that materialized into over $100MM in new business</font>
+* <font size = "2">Showcased a high level of expertise in real estate secured lending through underwriting numerous traditional and alternative personal credit applications that materialized into over $100MM in new business</font>
 * Substantially expedited the underwriting process by 60% which improved team efficiency and customer satisfaction
 * Established a reputation as a top performer in sales within the organization through in-depth product knowledge, effective customer relationship management and ability to identify opportunities, generate leads and close sales
 * Consistently provided trademark customer service by ensuring a positive client experience at every interaction 
