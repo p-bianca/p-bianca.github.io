@@ -26,7 +26,7 @@ Examples of use cases:
 &emsp; As a quick synopsis, I created a relational database for mortgage brokerage. Only mock data was used in the creation of this project. 
 
 
-![Branching](https://github.com/p-bianca/p-bianca.github.io/blob/main/assets/img/schema.png)
+![Title](https://github.com/p-bianca/p-bianca.github.io/blob/main/assets/img/schema.png)
 
 ****
 
