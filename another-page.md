@@ -116,8 +116,11 @@ The below visualizations were created on Tableau using the same relational datab
 They can also be viewed directly on my Tableau Public following [this](https://public.tableau.com/app/profile/paula.bianca1217) link.
 
 <img src="tableau1.png" width="800" />
+&nbsp;
 <img src="tableau2.png" width="800" />
+&nbsp;
 <img src="tableau3.png" width="800" />
+&nbsp;
 <img src="tableau4.png" width="800" />
 
 
