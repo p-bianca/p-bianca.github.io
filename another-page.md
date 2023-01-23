@@ -5,9 +5,7 @@ layout: post
 <body style="background-color:#006366;"></body>
 
 
-## INTRODUCTION
-
-## Bank Data Analysis Project
+## BANK DATA ANALYSIS PROJECT
 
 &emsp; <font size = "2">This is simply a brief outline of the project as this particular project is company-related (and therefore proprietary). 
 I've put this together by creating a relational database, running queries through SQL to gain meaningful insights and visualizing the data using Tableau. </font>
@@ -22,7 +20,9 @@ Examples of use cases:
 
 *****
 
-## Mortgage Brokerage Analysis Project
+## MORTGAGE BROKERAGE ANALYSIS PROJECT
+
+## SQL Portion
 
 &emsp; <font size = "2">As a quick synopsis, I created the below relational database for mortgage brokerage. Only mock data was used in the creation of this project. </font>
 
@@ -30,12 +30,13 @@ Examples of use cases:
 
 Below are quick links to the tables for reference. 
 
-[link to deals raw data CSV file](./deals.csv)   
-[link to brokers raw data CSV file](./brokers.csv)       
-[link to institutions raw data CSV file](./institutions.csv)  
-[link to clients raw data CSV file](./clients.csv)    
+[Download link - deals raw data CSV file](./deals.csv)   
+[Download link - brokers raw data CSV file](./brokers.csv)       
+[Download link - institutions raw data CSV file](./institution.csv)  
+[Download link - clients raw data CSV file](./clients.csv)    
 
 ## <font size = "2"> Using joins and aggregate functions </font>
+In this example, I ran the below query to list the top 10 brokers by total deals (includes all funded, approved, declined and cancelled deals).
 
 ```sql
 SELECT 
@@ -47,6 +48,9 @@ FROM
 GROUP BY name
 ORDER BY totaldeals DESC LIMIT 10;
 ```
+
+## Data Visualization
+
 <img src="tableau1.png" width="800" />
 <img src="tableau2.png" width="800" />
 <img src="tableau3.png" width="800" />
