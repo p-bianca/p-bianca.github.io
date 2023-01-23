@@ -23,7 +23,7 @@ Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combin
 
 ## SKILLS
 
-<font size= "2"> G Suite, Microsoft Office, Excel (VLOOKUP, Pivot Tables) • SQL • Data Visualization (Tableau) • Filogix • Equifax/Transunion • AML/FINTRAC • risk management • financial statements and business analysis • relationship management • debt structuring • regulations/compliance </font>
+<font size= "2"> G Suite, Microsoft Office, Excel (VLOOKUP, Pivot Tables) • SQL • data visualization (Tableau) • Filogix • Equifax/Transunion • AML/FINTRAC • risk management • financial statements and business analysis • relationship management • debt structuring • regulations/compliance </font>
 
 ****
 
