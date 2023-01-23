@@ -8,15 +8,15 @@ layout: post
 
 ## Bank Data Analysis Project
 
-&emsp; This is a brief outline of the project as this particular project is company-related (and therefore proprietary). 
-I've put together this creating a relational database, running queries through SQL to gain meaningful insights and visualizing the data through Tableau. 
+&emsp; This is simpla a brief outline of the project as this particular project is company-related (and therefore proprietary). 
+I've put this together by creating a relational database, running queries through SQL to gain meaningful insights and visualizing the data using Tableau. 
 
 Examples of use cases: 
 * Outline the number of funded loans by underwriter on a monthly and yearly basis to measure output across the team to measure performance 
 * Determine the average interest rate by underwriter relative to the average rate across the entire team
-* Rank the top 10 brokers by the number of loans funded for the year as well as the cumulative total dollar amount of funded loans 
-* Isolate the percentage of deals declined relative to deals actioned by each underwriter 
-* Measure the quality and accuracy of each underwriter based on their respective compliance scores for deals funded 
+* Rank the top 10 brokers by the number of loans funded for the year as well as the cumulative total dollar amount of funded loans to determine the bank's most productive relationships
+* Isolate the percentage of deals declined relative to deals actioned by each underwriter to determine opportunities for coaching 
+* Measure the quality and accuracy of each underwriter based on their respective compliance scores for deals funded to determine opportunities for coaching 
 * List brokers by rate of declines relative to submissions to determine opportunities for coaching 
 
 *****
@@ -26,7 +26,7 @@ Examples of use cases:
 &emsp; As a quick synopsis, I created a relational database for mortgage brokerage. Only mock data was used in the creation of this project. 
 
 
-![Branching](https://imgur.com/a/vbw2WQ1)
+![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
 
 ****
 
