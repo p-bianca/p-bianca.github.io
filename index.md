@@ -41,11 +41,6 @@ layout: default
 *	<font size = "2"> Exemplifies a detailed working knowledge of AML/fraud risk through identifying cues of suspicious activity and using investigative techniques to gather, analyze and document relevant data for compliance and quality assurance </font>   
 *	<font size = "2"> Implements a solutions-based approach to all mortgage applications, demonstrating a strong ability to structure and rework loans in adherence with the bank’s policy and guidelines </font>   
 
-
-
-&nbsp;
-
-
 **FIRSTONTARIO CREDIT UNION** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; June 2016 – May 2021
 
 **Commercial Business Analyst** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  March 2020 – May 2021
@@ -57,9 +52,6 @@ layout: default
     *   <font size = "2">Expertise includes but is not limited to syndicated loans, commercial plazas, residential rental properties, hospitality operations, retirement homes, as well as residential and commercial construction projects</font>
 *	<font size = "2">Demonstrated strong credit acumen when evaluating risk and reward when preparing high quality proposals for new loans</font>
     *	<font size = "2">Exercises a high degree of due diligence and attention to detail in assessing quantitative and qualitative data as well as corporate financial statements and credit reports </font>
-
-&nbsp;
-
 
 **Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   June 2016 – March 2020
 
