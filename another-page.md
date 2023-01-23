@@ -7,7 +7,7 @@ layout: post
 
 ## BANK DATA ANALYSIS PROJECT
 
-&emsp; <font size = "2">This is simply a brief outline of the project as this particular project is company-related (and therefore proprietary). 
+<font size = "2">This is simply a brief outline of the project as this particular project is company-related (and therefore proprietary). 
 I've put this together by creating a relational database, running queries through SQL to gain meaningful insights and visualizing the data using Tableau. </font>
 
 Examples of use cases: 
