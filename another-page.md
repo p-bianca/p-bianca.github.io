@@ -28,6 +28,8 @@ Examples of use cases:
 
 <img src="schema.png" width="800" />
 
+Here's a quick snapshot of what the data looks like within all 4 tables. 
+
 <img src="tables.png" width="800" />
 
 ## <font size = "2"> Using joins and aggregate functions </font>
