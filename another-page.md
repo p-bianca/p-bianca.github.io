@@ -4,6 +4,8 @@ layout: post
 
 <body style="background-color:#006366;"></body>
 
+<font size = "2">
+
 ## INTRODUCTION
 
 ## Bank Data Analysis Project
@@ -29,6 +31,8 @@ Examples of use cases:
 ![Title](https://github.com/p-bianca/p-bianca.github.io/blob/main/assets/img/schema.png)
 
 ****
+
+</font>
 
 [back](./)
 
