@@ -51,6 +51,7 @@ ORDER BY totaldeals DESC LIMIT 10;
 
 The below query quantifies the grand total of funded loans per province and orders them from lowest to highest.
 
+## <font size = "2"> Aggregate functions ft. the WHERE clause </font>
 ```sql
 SELECT 
     SUM(loanamount) AS totalfunded, province
@@ -63,7 +64,19 @@ ORDER BY totalfunded ASC;
 ```
 <img src="sqltableau2.png" width="200" />
 
+## <font size = "2"> Window functions ft. PARTITON BY clause </font>
+
+```sql
+SELECT DISTINCT 
+	name,
+    COUNT(*) OVER(PARTITION BY name) AS dealsperbroker 
+FROM deals 
+JOIN brokers 
+ON deals.brokerid = brokers.id;
+```
 ## Data Visualization
+
+The below visualizations were created on Tableau using the same relational database used above.
 
 <img src="tableau1.png" width="800" />
 <img src="tableau2.png" width="800" />
