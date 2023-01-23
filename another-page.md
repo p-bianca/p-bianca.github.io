@@ -26,9 +26,7 @@ Examples of use cases:
 
 &emsp; <font size = "2">As a quick synopsis, I created a relational database for mortgage brokerage. Only mock data was used in the creation of this project. </font>
 
-![Schema](https://github.com/p-bianca/p-bianca.github.io/blob/e51c5b3782efb48c4aac6b16b639748b3baecfcf/schema.png "test")
-
-<img src="https://github.com/p-bianca/p-bianca.github.io/blob/e51c5b3782efb48c4aac6b16b639748b3baecfcf/schema.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="https://imgur.com/a/vbw2WQ1" alt="Schema" style="height: 100px; width:100px;"/>
 
 ## <font size = "2"> Using joins and aggregate functions </font>
 
