@@ -32,6 +32,8 @@ Examples of use cases:
 
 <img title="a title" alt="Alt text" src="p-bianca.github.io\schema.png">
 
+![Alt text](https://imgur.com/a/vbw2WQ1 "a title")
+
 ## <font size = "2"> Using joins and aggregate functions </font>
 
 ```js
