@@ -36,8 +36,7 @@ Examples of use cases:
 
 ## <font size = "2"> Using joins and aggregate functions </font>
 
-```js
-// Javascript code with syntax highlighting.
+```sql
 SELECT 
     name, COUNT(*) AS totaldeals
 FROM
