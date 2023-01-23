@@ -26,8 +26,11 @@ Examples of use cases:
 
 &emsp; <font size = "2">As a quick synopsis, I created a relational database for mortgage brokerage. Only mock data was used in the creation of this project. </font>
 
+![Schemaaa]("C:\Users\pquib\OneDrive\Documents\portfolio\p-bianca.github.io\schema.png")
 
-![Schema](https://github.com/p-bianca/p-bianca.github.io/blob/main/assets/img/schema.png)
+## <font size = "2"> Using joins and aggregate functions </font>
+
+<font size = "2"></font>
 
 ****
 
