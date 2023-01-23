@@ -113,6 +113,8 @@ JOIN deals ON clients.id = deals.clientid;
 
 The below visualizations were created on Tableau using the same relational database used above.
 
+They can also be viewed directly on my Tableau Public following [this](https://public.tableau.com/app/profile/paula.bianca1217) link.
+
 <img src="tableau1.png" width="800" />
 <img src="tableau2.png" width="800" />
 <img src="tableau3.png" width="800" />
