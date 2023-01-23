@@ -34,7 +34,17 @@ Examples of use cases:
 
 ## <font size = "2"> Using joins and aggregate functions </font>
 
-
+```js
+// Javascript code with syntax highlighting.
+SELECT 
+    name, COUNT(*) AS totaldeals
+FROM
+    brokers
+        JOIN
+    deals ON brokers.id = deals.brokerid
+GROUP BY name
+ORDER BY totaldeals DESC LIMIT 10;
+```
 
 <font size = "2"></font>
 
