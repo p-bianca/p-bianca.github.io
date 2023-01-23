@@ -1,0 +1,36 @@
+id,name,focus,region,annualizedearnings
+1,Sincere Barger,A,Toronto,135000
+2,Anna Langdon,A,Toronto,124000
+3,Jodi Marlow,A,Brampton,101000
+4,Henry McIntosh,A,Brampton,125000
+5,Samuel Coons,A,Mississauga,150000
+6,Gemma Egan,A,Mississauga,142000
+7,Cara Crain,A,Hamilton ,100000
+8,Zander Abney,A,Hamilton ,104000
+9,Raheem Petersen,A,Ottawa,97000
+10,Jefferson Bartels,A,Ottawa,99000
+11,Lila Trimble,A,Niagara Falls,89000
+12,Vanesa Ivey,A,Niagara Falls,96000
+13,Madisen Giles,B,Edmonton,96000
+14,Vladimir Orr,B,Edmonton,101000
+15,Serina Porter,B,Edmonton,108000
+16,Robin Forbes,B,Calgary,125000
+17,Maritza Stack,B,Calgary,105000
+18,Marlee Kiser,B,Calgary,108000
+19,Kaley Woodward,B,Winnipeg,71000
+20,Anita Bishop,B,Winnipeg,75000
+21,Anton Triplett,B,Saskatoon,81000
+22,Jaxson Alonzo,B,Saskatoon,80000
+23,Kristi Betz,B,Vancouver,112000
+24,Alfredo Donnelly,B,Vancouver,145000
+25,Lesli Coffin,AB,Vancouver,160000
+26,Elsie Avalos,AB,Vancouver,152000
+27,Cynthia Brant,AB,Surrey,115000
+28,Tricia Carpenter,AB,Surrey,119000
+29,Jayden Unger,AB,Surrey,135000
+30,Keanu Evers,AB,Surrey,142000
+31,Dayanara Posey,AB,Atlantic,88000
+32,Juwan Law,AB,Atlantic,89000
+33,Natalee Presley,AB,Atlantic,90000
+34,Ahmad Silverman,AB,Halifax,78000
+35,Jerod Post,AB,Halifax,87000

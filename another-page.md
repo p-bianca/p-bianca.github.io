@@ -45,6 +45,10 @@ GROUP BY name
 ORDER BY totaldeals DESC LIMIT 10;
 ```
 
+[link](file:///d:/absolute.md)    # absolute filesystem path
+[link](./brokers.csv)            # relative to opened file
+[link](/brokers.csv)     # relative to opened project
+
 <font size = "2"></font>
 
 ****

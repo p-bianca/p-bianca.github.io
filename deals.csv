@@ -1,0 +1,1001 @@
+id,brokerid,clientid,institutionid,loanamount,rate,cbscore,province,city,occupancy,product,purpose,status,date
+123456,14,2718,16,100000,0.0664,865,BC,Vancouver,Owner Occupied,HELOC,refinance,funded,2022-01-09
+123457,33,1925,16,220000,0.0684,584,AB,Calgary,Owner Occupied,HELOC,refinance,approved,2022-02-13
+123458,3,1219,8,350000,0.0704,656,MB,Winnipeg,Rental ,First Mortgage,refinance,cancelled,2022-03-06
+123459,16,2683,15,450000,0.0704,659,ON,Brampton,Rental,First Mortgage,refinance,declined,2022-03-10
+123460,7,2935,3,1000000,0.0714,482,SK,Saskatoon,Rental,First Mortgage,refinance,funded,2022-03-29
+123461,2,2938,9,1200000,0.0724,872,NL,St. Johns,Owner Occupied,First Mortgage,refinance,approved,2022-04-25
+123462,26,1451,18,300000,0.0724,778,PEI,Charlottetown,Rental ,First Mortgage,refinance,cancelled,2022-05-03
+123463,4,1183,1,605000,0.0734,542,NS,Halifax,Rental,Second Mortgage,refinance,declined,2022-05-04
+123464,16,2594,13,610000,0.0744,549,BC,Burnaby,Owner Occupied,HELOC,refinance,declined,2022-05-29
+123465,16,1518,7,515000,0.0754,489,AB,Red Deer,Owner Occupied,HELOC,refinance,declined,2022-06-12
+123466,20,1456,10,420000,0.0764,748,MB,Winnipeg,Rental ,HELOC,refinance,declined,2022-06-20
+123467,24,1471,2,450000,0.0809,745,ON,Oakville,Rental,First Mortgage,refinance,declined,2022-07-13
+123468,23,1947,10,780000,0.0699,685,SK,Regina,Owner Occupied,HELOC,refinance,approved,2022-07-28
+123469,6,2528,2,790000,0.0794,658,NL,St. Johns,Owner Occupied,First Mortgage,refinance,approved,2022-08-02
+123470,5,2277,3,760000,0.0789,689,PEI,Charlottetown,Rental ,Second Mortgage,refinance,approved,2022-08-09
+123471,34,1200,2,450000,0.0689,487,NS,Halifax,Rental,Second Mortgage,refinance,approved,2022-09-07
+123472,31,1882,10,120000,0.0659,785,BC,Langley,Owner Occupied,HELOC,refinance,approved,2022-09-08
+123473,29,2122,2,140000,0.0699,848,AB,Red Deer,Owner Occupied,Second Mortgage,refinance,approved,2022-10-06
+123474,34,2815,2,865000,0.0799,858,MB,Winnipeg,Rental ,First Mortgage,refinance,approved,2022-10-17
+123475,17,1474,5,730500,0.0789,867,ON,Toronto,Rental,HELOC,refinance,approved,2022-11-28
+123476,6,2476,7,345000,0.0779,785,SK,Saskatoon,Owner Occupied,HELOC,refinance,approved,2022-12-05
+123477,4,2219,7,456500,0.0769,598,NL,St. Johns,Owner Occupied,First Mortgage,refinance,approved,2022-12-12
+123478,18,1021,17,340950,0.0759,487,PEI,Charlottetown,Rental ,Second Mortgage,refinance,approved,2022-12-13
+123479,9,2411,15,240950,0.0699,798,NS,Halifax,Rental,HELOC,refinance,cancelled,2022-12-19
+123480,10,2624,11,100000,0.0689,984,BC,Surrey,Owner Occupied,First Mortgage,refinance,cancelled,2022-12-25
+123481,4,2969,4,220000,0.0679,458,AB,Edmonton,Owner Occupied,HELOC,refinance,cancelled,2022-02-14
+123482,22,1982,11,350000,0.0669,788,ON,Kingston,Owner Occupied,First Mortgage,refinance,funded,2022-02-22
+123483,33,2827,13,450000,0.0809,548,BC,Abbotsford,Owner Occupied,First Mortgage,refinance,funded,2022-03-02
+123484,20,2650,3,1000000,0.0814,645,AB,Medicine Hat,Owner Occupied,First Mortgage,refinance,funded,2022-03-27
+123485,13,1870,4,1200000,0.0814,545,ON,Hamilton,Owner Occupied,Second Mortgage,refinance,funded,2022-04-10
+123486,8,1136,9,300000,0.0689,688,BC,Kamloops,Owner Occupied,HELOC,refinance,funded,2022-04-11
+123487,14,1983,15,605000,0.0654,479,AB,Lethbridge,Owner Occupied,First Mortgage,Purchase,funded,2022-04-14
+123488,13,1370,14,670500,0.0684,687,ON,Ottawa,Owner Occupied,First Mortgage,Purchase,funded,2022-05-12
+123489,16,1445,14,325100,0.0674,678,BC,Victoria,Owner Occupied,First Mortgage,Purchase,funded,2022-05-24
+123490,18,1865,12,450510,0.0809,574,AB,Airdrie,Owner Occupied,First Mortgage,Purchase,funded,2022-05-25
+123491,30,1079,5,1500500,0.0714,647,ON,Oshawa,Owner Occupied,First Mortgage,Purchase,funded,2022-06-02
+123492,26,1806,18,1300500,0.0714,857,BC,Nanaimo,Owner Occupied,First Mortgage,Purchase,funded,2022-06-13
+123493,21,2031,8,1230000,0.0734,8748,AB,Canmore,Owner Occupied,Second Mortgage,Refinance,funded,2022-06-28
+123494,9,1860,4,560500,0.0734,848,ON,Barrie,Owner Occupied,First Mortgage,Purchase,funded,2022-07-11
+123495,24,2932,10,460000,0.0744,858,BC,Mission,Owner Occupied,First Mortgage,Purchase,funded,2022-07-12
+123496,1,1279,7,458000,0.0754,979,AB,Calgary,Owner Occupied,Second Mortgage,refinance,funded,2022-08-08
+123497,27,1035,8,230950,0.0764,673,ON,Ajax,Owner Occupied,HELOC,refinance,funded,2022-08-16
+123498,5,2007,8,569500,0.0774,451,BC,Vernon,Owner Occupied,First Mortgage,refinance,funded,2022-08-18
+123499,22,1110,13,395500,0.0784,548,AB,Edmonton,Owner Occupied,HELOC,refinance,funded,2022-08-30
+123500,15,1190,12,604600,0.0794,897,ON,Ajax,Owner Occupied,First Mortgage,Purchase,funded,2022-09-07
+123501,3,1894,5,294000,0.0664,874,BC,Courtenay,Owner Occupied,First Mortgage,Purchase,funded,2022-09-15
+123502,8,2638,5,239500,0.0674,645,AB,Airdrie,Owner Occupied,First Mortgage,Purchase,funded,2022-09-20
+123503,27,2266,14,239000,0.0684,547,ON,Markham,Owner Occupied,HELOC,refinance,funded,2022-10-17
+123504,8,1115,18,129500,0.0694,874,BC,Prince George,Owner Occupied,First Mortgage,Purchase,funded,2022-11-16
+123505,13,2774,17,708300,0.0669,800,AB,Cochrane,Owner Occupied,First Mortgage,Purchase,funded,2022-11-30
+123506,10,2983,12,962000,0.0679,650,ON,Markham,Owner Occupied,Second Mortgage,refinance,funded,2022-01-02
+123507,18,1267,10,999000,0.0689,870,BC,Chilliwack,Owner Occupied,Second Mortgage,refinance,funded,2022-01-10
+123508,26,1542,10,888000,0.0699,800,AB,Chestermere,Owner Occupied,Second Mortgage,refinance,funded,2022-01-17
+123509,13,1531,11,777000,0.0709,710,ON,Newmarket,Owner Occupied,First Mortgage,refinance,funded,2022-01-19
+123510,31,1422,9,230000,0.0719,711,BC,Port Alberni,Owner Occupied,Second Mortgage,refinance,funded,2022-01-27
+123511,23,2169,9,666000,0.0729,510,AB,Chestermere,Owner Occupied,First Mortgage,Purchase,funded,2022-01-30
+123512,11,2396,7,450000,0.0739,650,ON,Newmarket,Owner Occupied,First Mortgage,Purchase,funded,2022-02-14
+123513,2,2024,6,555000,0.0749,505,BC,Port Alberni,Owner Occupied,Second Mortgage,refinance,funded,2022-02-20
+123514,3,2758,11,444000,0.0759,567,AB,Calgary,Owner Occupied,First Mortgage,Purchase,funded,2022-02-28
+123515,22,2026,13,333000,0.0769,598,ON,Brantford,Owner Occupied,HELOC,refinance,approved,2022-03-21
+123516,20,1668,9,205000,0.0779,548,BC,Kamloops,Owner Occupied,First Mortgage,Purchase,cancelled,2022-04-07
+123517,10,2742,11,111000,0.0789,874,AB,Calgary,Owner Occupied,First Mortgage,Purchase,declined,2022-06-09
+123518,22,2936,12,123000,0.0799,568,ON,Brantford,Owner Occupied,First Mortgage,Purchase,funded,2022-06-13
+123519,21,1961,15,234000,0.0664,568,BC,Langley,Owner Occupied,First Mortgage,Purchase,approved,2022-06-19
+123520,4,2292,7,345000,0.0674,578,AB,Calgary,Owner Occupied,HELOC,refinance,cancelled,2022-06-23
+123521,27,2372,8,456000,0.0684,785,ON,Brantford,Owner Occupied,First Mortgage,refinance,declined,2022-06-28
+123522,17,2381,4,567000,0.0694,648,BC,Coquitlam,Owner Occupied,HELOC,refinance,funded,2022-07-10
+123523,31,2986,16,678000,0.0704,586,AB,Calgary,Owner Occupied,First Mortgage,refinance,approved,2022-08-08
+123524,32,2648,4,789000,0.0714,582,ON,Brantford,Owner Occupied,First Mortgage,refinance,cancelled,2022-08-10
+123525,19,1535,17,890000,0.0724,700,BC,Richmond,Owner Occupied,Second Mortgage,refinance,declined,2022-08-22
+123526,24,1655,17,908000,0.0734,800,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,funded,2022-09-01
+123527,16,2697,16,987000,0.0744,500,ON,Georgetown,Owner Occupied,HELOC,refinance,approved,2022-10-09
+123528,28,2106,14,876000,0.0754,600,ON,Georgetown,Owner Occupied,HELOC,refinance,cancelled,2022-10-18
+123529,34,1023,7,876000,0.0764,639,AB,Edmonton,Owner Occupied,HELOC,refinance,declined,2022-11-15
+123530,24,2214,13,765000,0.0774,658,ON,Georgetown,Owner Occupied,First Mortgage,Purchase,declined,2022-11-27
+123531,10,1003,7,654000,0.0784,639,ON,Georgetown,Owner Occupied,First Mortgage,Purchase,declined,2022-01-04
+123532,4,2567,1,543000,0.0794,639,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,declined,2022-02-07
+123533,18,2651,2,432000,0.0794,639,ON,Georgetown,Owner Occupied,First Mortgage,Purchase,declined,2022-02-10
+123534,9,1751,3,321000,0.0794,639,ON,Georgetown,Owner Occupied,First Mortgage,Purchase,approved,2022-02-21
+123535,18,1050,12,219000,0.0794,639,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,approved,2022-02-22
+123536,8,2654,13,112500,0.0794,639,ON,Oakville,Owner Occupied,First Mortgage,Purchase,approved,2022-02-23
+123537,1,1141,2,198000,0.0794,639,ON,Oakville,Owner Occupied,HELOC,refinance,approved,2022-03-17
+123538,30,1099,6,395500,0.0664,639,AB,Edmonton,Owner Occupied,HELOC,refinance,approved,2022-04-07
+123539,4,1427,10,125000,0.0664,639,ON,Mississauga,Owner Occupied,First Mortgage,Refinance,funded,2022-04-13
+123540,33,1179,9,346000,0.0664,568,ON,Mississauga,Owner Occupied,First Mortgage,Purchase,approved,2022-06-14
+123541,26,2572,8,100000,0.0664,568,AB,Calgary,Owner Occupied,HELOC,refinance,cancelled,2022-06-26
+123542,9,1496,1,220000,0.0664,578,ON,Mississauga,Owner Occupied,First Mortgage,Purchase,declined,2022-07-04
+123543,27,2484,1,350000,0.0664,785,ON,Mississauga,Owner Occupied,HELOC,refinance,funded,2022-07-25
+123544,16,2616,12,450000,0.0664,865,AB,Calgary,Owner Occupied,HELOC,refinance,approved,2022-08-18
+123545,23,1491,12,1000000,0.0664,584,ON,Mississauga,Owner Occupied,HELOC,refinance,cancelled,2022-09-29
+123546,5,1014,13,1200000,0.0664,656,ON,Mississauga,Owner Occupied,HELOC,refinance,declined,2022-10-06
+123547,13,1075,1,300000,0.0664,659,AB,Calgary,Owner Occupied,Second Mortgage,refinance,declined,2022-11-01
+123548,25,1049,13,605000,0.0754,482,ON,Mississauga,Owner Occupied,First Mortgage,refinance,declined,2022-11-15
+123549,29,1782,9,610000,0.0764,872,BC,New Westminster,Owner Occupied,HELOC,refinance,declined,2022-11-17
+123550,29,2059,11,515000,0.0774,778,ON,Milton,Owner Occupied,First Mortgage,Purchase,declined,2022-12-04
+123551,20,2611,2,420000,0.0784,542,ON,Milton,Owner Occupied,HELOC,refinance,approved,2022-12-06
+123552,28,2568,15,450000,0.0794,549,BC,Maple Ridge,Owner Occupied,HELOC,refinance,funded,2022-12-14
+123553,35,1511,17,780000,0.0664,489,ON,Cornwall,Owner Occupied,HELOC,refinance,approved,2022-12-18
+123554,18,1101,15,790000,0.0674,748,ON,Ingersoll,Owner Occupied,HELOC,refinance,cancelled,2022-12-27
+123555,18,2200,10,760000,0.0684,745,BC,White Rock,Owner Occupied,First Mortgage,Purchase,declined,2022-12-28
+123556,18,2135,10,450000,0.0694,685,ON,Cornwall,Owner Occupied,HELOC,refinance,funded,2022-01-03
+123557,30,2358,14,120000,0.0669,658,ON,Ingersoll,Owner Occupied,First Mortgage,refinance,approved,2022-01-06
+123558,18,1091,11,140000,0.0704,689,BC,Langford,Owner Occupied,First Mortgage,refinance,cancelled,2022-03-02
+123559,9,2441,12,865000,0.0704,487,ON,Napanee,Owner Occupied,Second Mortgage,refinance,declined,2022-03-09
+123560,17,2398,4,730500,0.0714,785,ON,Napanee,Owner Occupied,Second Mortgage,refinance,declined,2022-03-10
+123561,10,1647,13,345000,0.0724,848,BC,Abbotsford,Owner Occupied,First Mortgage,refinance,declined,2022-03-13
+123562,28,2971,2,456500,0.0724,858,ON,Collingwood,Owner Occupied,HELOC,refinance,funded,2022-04-04
+123563,5,1917,13,340950,0.0734,867,ON,Collingwood,Owner Occupied,HELOC,refinance,approved,2022-04-28
+123564,12,2154,8,240950,0.0744,785,BC,Abbotsford,Owner Occupied,HELOC,refinance,cancelled,2022-05-01
+123565,22,2721,3,100000,0.0754,598,ON,Cornwall,Owner Occupied,HELOC,refinance,declined,2022-06-06
+123566,8,1959,3,220000,0.0764,487,ON,Ingersoll,Owner Occupied,HELOC,refinance,funded,2022-06-14
+123567,1,1600,12,350000,0.0809,798,BC,Chilliwack,Owner Occupied,Second Mortgage,refinance,approved,2022-06-23
+123568,23,2176,9,450000,0.0669,984,ON,Wasaga Beach,Owner Occupied,Second Mortgage,refinance,cancelled,2022-06-26
+123569,19,1655,16,1000000,0.0809,458,ON,Wasaga Beach,Owner Occupied,First Mortgage,Purchase,declined,2022-07-10
+123570,19,2195,13,1200000,0.0814,788,BC,Kamloops,Rental ,HELOC,refinance,declined,2022-07-13
+123571,23,1562,10,300000,0.0814,548,AB,Edmonton,Rental ,HELOC,refinance,declined,2022-07-14
+123572,36,2556,17,605000,0.0689,645,ON,Wasaga Beach,Rental ,Second Mortgage,refinance,declined,2022-08-10
+123573,25,2696,9,670500,0.0654,545,ON,Wasaga Beach,Rental ,First Mortgage,Purchase,declined,2022-08-16
+123574,33,1045,7,325100,0.0684,688,AB,Red Deer,Rental ,First Mortgage,Purchase,approved,2022-09-15
+123575,23,2603,9,450510,0.0674,479,ON,Wasaga Beach,Rental ,HELOC,refinance,approved,2022-10-10
+123576,19,1802,12,1500500,0.0809,687,ON,Wasaga Beach,Rental ,First Mortgage,Purchase,approved,2022-10-16
+123577,1,1711,10,1300500,0.0714,678,AB,Red Deer,Rental ,First Mortgage,Purchase,approved,2022-11-16
+123578,14,1457,2,1230000,0.0714,574,ON,Peterborough,Rental ,Second Mortgage,refinance,approved,2022-11-29
+123579,7,2512,17,560500,0.0734,647,ON,Peterborough,Rental ,Second Mortgage,refinance,approved,2022-12-05
+123580,14,2801,14,460000,0.0734,857,AB,Medicine Hat,Rental ,HELOC,refinance,approved,2022-12-12
+123581,10,2427,7,458000,0.0744,848,ON,Peterborough,Rental ,Second Mortgage,refinance,approved,2022-01-03
+123582,34,1198,14,230950,0.0754,848,ON,Peterborough,Rental ,Second Mortgage,refinance,approved,2022-02-14
+123583,3,1175,13,569500,0.0764,858,AB,Red Deer,Rental ,Second Mortgage,refinance,approved,2022-03-03
+123584,16,2779,4,395500,0.0774,979,ON,Orillia,Rental ,HELOC,refinance,approved,2022-04-28
+123585,23,1010,7,604600,0.0714,673,ON,Orillia,Owner Occupied,Second Mortgage,refinance,cancelled,2022-05-17
+123586,3,2972,2,294000,0.0724,451,AB,Red Deer,Owner Occupied,HELOC,refinance,cancelled,2022-05-26
+123587,24,2140,16,239500,0.0734,548,ON,Sudbury,Owner Occupied,First Mortgage,Purchase,cancelled,2022-06-02
+123588,29,1812,1,239000,0.0744,897,ON,Sudbury,Owner Occupied,Second Mortgage,refinance,funded,2022-06-13
+123589,3,2549,1,129500,0.0754,874,AB,Blackfalds,Owner Occupied,First Mortgage,Purchase,funded,2022-06-23
+123590,29,1872,9,708300,0.0764,645,ON,Sudbury,Owner Occupied,HELOC,refinance,funded,2022-06-27
+123591,12,1340,12,962000,0.0774,547,ON,Niagara Falls,Owner Occupied,Second Mortgage,refinance,funded,2022-07-03
+123592,11,2163,13,999000,0.0784,874,AB,Blackfalds,Owner Occupied,HELOC,refinance,funded,2022-07-18
+123593,3,1702,12,888000,0.0794,800,ON,Niagara Falls,Owner Occupied,HELOC,refinance,funded,2022-07-19
+123594,21,1054,7,777000,0.0794,650,ON,Niagara Falls,Owner Occupied,HELOC,refinance,funded,2022-07-31
+123595,22,1415,13,230000,0.0794,870,AB,Blackfalds,Owner Occupied,HELOC,refinance,funded,2022-08-11
+123596,26,2994,2,666000,0.0794,800,ON,Niagara Falls,Owner Occupied,Second Mortgage,refinance,funded,2022-09-08
+123597,33,2246,16,450000,0.0794,710,ON,Niagara Falls,Owner Occupied,HELOC,refinance,funded,2022-09-14
+123598,6,2876,9,555000,0.0794,711,AB,Lloydminster,Owner Occupied,First Mortgage,Purchase,funded,2022-09-26
+123599,30,1107,3,444000,0.0664,510,ON,Niagara Falls,Owner Occupied,HELOC,refinance,funded,2022-10-06
+123600,29,1253,12,333000,0.0664,650,ON,Windsor,Owner Occupied,HELOC,refinance,funded,2022-11-01
+123601,35,1188,18,205000,0.0664,505,AB,Canmore,Owner Occupied,HELOC,refinance,funded,2022-11-07
+123602,24,1484,8,111000,0.0664,567,ON,Windsor,Owner Occupied,HELOC,refinance,funded,2022-12-01
+123603,10,1226,15,123000,0.0664,598,ON,Windsor,Owner Occupied,First Mortgage,Purchase,funded,2022-12-13
+123604,21,2259,10,234000,0.0664,548,BC,Courtenay,Owner Occupied,Second Mortgage,refinance,funded,2022-12-26
+123605,17,2772,15,345000,0.0664,874,BC,Cranbrook,Owner Occupied,First Mortgage,Purchase,funded,2022-12-28
+123606,27,2286,12,456000,0.0664,568,BC,Duncan,Owner Occupied,First Mortgage,Purchase,approved,2022-01-10
+123607,33,1127,6,567000,0.0664,568,BC,Port Alberni,Owner Occupied,HELOC,refinance,approved,2022-01-17
+123608,31,1908,7,678000,0.0664,578,BC,Port Alberni,Owner Occupied,HELOC,refinance,cancelled,2022-01-30
+123609,26,2721,11,789000,0.0784,785,BC,Port Alberni,Owner Occupied,First Mortgage,Purchase,funded,2022-01-31
+123610,17,2170,13,890000,0.0664,648,BC,Lloydminster,Owner Occupied,First Mortgage,refinance,cancelled,2022-02-03
+123611,9,2715,9,908000,0.0724,586,BC,Lloydminster,Owner Occupied,First Mortgage,refinance,declined,2022-03-02
+123612,22,2277,11,987000,0.0664,582,BC,Kelowna,Owner Occupied,First Mortgage,refinance,approved,2022-03-03
+123613,23,1841,15,876000,0.0664,700,BC,Mission,Owner Occupied,First Mortgage,refinance,approved,2022-03-10
+123614,20,1721,1,876000,0.0724,800,BC,Nanaimo,Owner Occupied,HELOC,refinance,cancelled,2022-04-06
+123615,7,1486,5,765000,0.0669,500,BC,Qualicum Beach,Owner Occupied,Second Mortgage,refinance,funded,2022-04-10
+123616,34,1604,12,654000,0.0814,600,BC,Qualicum Beach,Owner Occupied,First Mortgage,Purchase,approved,2022-04-20
+123617,13,1437,12,543000,0.0664,639,BC,Qualicum Beach,Owner Occupied,First Mortgage,Purchase,approved,2022-06-02
+123618,13,1966,14,432000,0.0809,658,BC,Vernon,Owner Occupied,First Mortgage,Purchase,approved,2022-06-07
+123619,25,1775,16,321000,0.0664,639,BC,Campbell River,Owner Occupied,Second Mortgage,refinance,declined,2022-06-09
+123620,27,1902,14,219000,0.0714,639,BC,Campbell River,Owner Occupied,HELOC,refinance,funded,2022-06-20
+123621,1,2862,1,112500,0.0694,639,BC,Campbell River,Owner Occupied,HELOC,refinance,funded,2022-07-10
+123622,33,1670,17,198000,0.0794,639,BC,Nanaimo,Owner Occupied,HELOC,refinance,cancelled,2022-07-14
+123623,23,2420,16,395500,0.0724,639,ON,Barrie,Owner Occupied,First Mortgage,Purchase,funded,2022-07-27
+123624,16,1598,6,125000,0.0724,639,ON,Barrie,Owner Occupied,Second Mortgage,refinance,approved,2022-08-11
+123625,31,1407,13,346000,0.0664,639,BC,Nanaimo,Owner Occupied,First Mortgage,Purchase,funded,2022-10-09
+123626,21,1691,13,432000,0.0754,639,BC,Abbotsford,Owner Occupied,First Mortgage,Purchase,declined,2022-10-13
+123627,24,2303,8,120100,0.0729,639,BC,Abbotsford,Owner Occupied,Second Mortgage,refinance,funded,2022-11-23
+123628,24,2044,3,406600,0.0684,568,BC,Vancouver,Owner Occupied,First Mortgage,refinance,funded,2022-12-05
+123629,4,2187,6,204900,0.0794,568,BC,Vancouver,Owner Occupied,First Mortgage,refinance,funded,2022-12-08
+123630,19,1906,17,238500,0.0729,578,BC,Coquitlam,Owner Occupied,First Mortgage,Purchase,approved,2022-12-22
+123631,36,2213,16,693500,0.0774,785,BC,Coquitlam,Owner Occupied,Second Mortgage,refinance,approved,2022-01-10
+123632,17,2159,7,1120500,0.0669,865,BC,Coquitlam,Owner Occupied,HELOC,refinance,funded,2022-01-17
+123633,15,1785,1,1320500,0.0664,584,BC,Burnaby,Owner Occupied,HELOC,refinance,approved,2022-01-30
+123634,21,2628,14,985500,0.0689,656,BC,Vancouver,Owner Occupied,Second Mortgage,refinance,declined,2022-01-31
+123635,16,1434,4,192000,0.0809,659,BC,Vancouver,Owner Occupied,Second Mortgage,refinance,funded,2022-02-03
+123636,13,1568,14,100000,0.0714,482,BC,Vancouver,Owner Occupied,HELOC,refinance,funded,2022-03-02
+123637,9,1094,7,100000,0.0669,872,BC,Vancouver,Owner Occupied,HELOC,refinance,approved,2022-03-03
+123638,4,1946,8,293500,0.0704,778,BC,Maple Ridge ,Owner Occupied,Second Mortgage,refinance,funded,2022-03-10
+123639,19,1011,3,129500,0.0669,542,BC,Port Alberni,Owner Occupied,HELOC,refinance,funded,2022-04-06
+123640,26,1658,15,496000,0.0734,549,BC,Victoria,Owner Occupied,First Mortgage,refinance,cancelled,2022-04-10
+123641,9,1000,2,394500,0.0734,489,BC,Victoria,Owner Occupied,First Mortgage,refinance,funded,2022-04-20
+123642,12,2480,14,205000,0.0664,748,BC,Victoria,Owner Occupied,First Mortgage,Purchase,funded,2022-06-02
+123643,14,1095,12,193500,0.0784,745,BC,Victoria,Owner Occupied,First Mortgage,Purchase,declined,2022-06-07
+123644,15,1372,1,794500,0.0704,685,ON,Kitchener,Owner Occupied,Second Mortgage,refinance,funded,2022-06-09
+123645,19,2770,4,684500,0.0664,658,ON,Kitchener,Owner Occupied,Second Mortgage,refinance,cancelled,2022-06-20
+123646,8,2005,17,395600,0.0779,689,BC,Saanich,Owner Occupied,First Mortgage,Purchase,approved,2022-07-10
+123647,12,1085,10,234600,0.0734,487,BC,Saanich,Owner Occupied,First Mortgage,Purchase,funded,2022-07-14
+123648,2,1861,14,239500,0.0754,785,BC,Vancouver,Owner Occupied,HELOC,refinance,approved,2022-07-27
+123649,9,1503,1,19100,0.0689,848,BC,Nanaimo,Owner Occupied,HELOC,refinance,declined,2022-08-11
+123650,25,1461,5,194500,0.0664,858,BC,Nanaimo,Owner Occupied,First Mortgage,Purchase,cancelled,2022-10-09
+123651,15,1330,18,795000,0.0699,867,BC,Kelowna,Owner Occupied,First Mortgage,Purchase,declined,2022-10-13
+123652,35,2103,6,658000,0.0664,785,BC,Kelowna,Owner Occupied,HELOC,refinance,cancelled,2022-11-23
+123653,34,1311,2,395000,0.0809,598,BC,Kelowna,Owner Occupied,First Mortgage,refinance,funded,2022-12-05
+123654,4,1648,8,1009500,0.0714,487,AB,Airdrie,Owner Occupied,First Mortgage,Purchase,funded,2022-12-08
+123655,7,2230,17,125500,0.0714,798,AB,Calgary,Owner Occupied,HELOC,refinance,declined,2022-12-22
+123656,36,2541,5,1125500,0.0809,984,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-01-24
+123657,4,2399,7,305600,0.0734,458,AB,Calgary,Owner Occupied,HELOC,refinance,approved,2022-02-08
+123658,19,2767,14,395700,0.0809,979,AB,Calgary,Owner Occupied,First Mortgage,refinance,declined,2022-02-09
+123659,33,2888,15,128300,0.0679,673,AB,Calgary,Owner Occupied,First Mortgage,Purchase,declined,2022-02-10
+123660,10,1750,16,608500,0.0789,451,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,cancelled,2022-02-24
+123661,30,2787,8,100000,0.0674,548,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-03-09
+123662,34,2937,2,220000,0.0754,897,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-03-22
+123663,30,1080,10,350000,0.0714,874,AB,Calgary,Owner Occupied,Second Mortgage,refinance,approved,2022-03-30
+123664,12,2920,12,450000,0.0794,645,AB,Calgary,Owner Occupied,HELOC,refinance,approved,2022-05-04
+123665,21,2310,9,1000000,0.0664,547,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-05-12
+123666,22,1938,13,1200000,0.0664,874,AB,Calgary,Owner Occupied,First Mortgage,Purchase,cancelled,2022-07-10
+123667,7,1113,12,300000,0.0684,800,AB,Calgary,Owner Occupied,First Mortgage,refinance,funded,2022-07-21
+123668,35,1733,15,605000,0.0744,650,AB,Edmonton,Owner Occupied,First Mortgage,refinance,funded,2022-08-01
+123669,25,2654,16,610000,0.0694,870,AB,Edmonton,Owner Occupied,HELOC,refinance,declined,2022-08-09
+123670,17,2573,2,515000,0.0674,800,AB,Edmonton,Owner Occupied,HELOC,refinance,approved,2022-08-16
+123671,31,2795,6,420000,0.0744,710,AB,Red Deer,Owner Occupied,First Mortgage,Purchase,approved,2022-08-17
+123672,5,1877,17,450000,0.0664,711,AB,Red Deer,Owner Occupied,HELOC,refinance,declined,2022-08-18
+123673,10,2463,17,780000,0.0814,510,AB,Lethbridge,Owner Occupied,HELOC,refinance,declined,2022-09-05
+123674,27,1505,7,790000,0.0754,650,AB,Lethbridge,Owner Occupied,First Mortgage,Purchase,approved,2022-10-03
+123675,32,1740,12,760000,0.0664,505,AB,Sherwood Park,Owner Occupied,First Mortgage,Purchase,declined,2022-10-13
+123676,25,2971,13,450000,0.0654,567,AB,Sherwood Park,Owner Occupied,Second Mortgage,refinance,approved,2022-10-27
+123677,4,2259,8,120000,0.0679,598,AB,Sherwood Park,Owner Occupied,HELOC,refinance,declined,2022-11-16
+123678,35,1950,14,140000,0.0779,548,AB,Sherwood Park,Owner Occupied,HELOC,refinance,funded,2022-11-20
+123679,14,1848,14,865000,0.0769,874,AB,Fort Saskatchewan,Owner Occupied,HELOC,refinance,funded,2022-12-12
+123680,4,1471,10,730500,0.0784,568,AB,Fort Saskatchewan,Owner Occupied,First Mortgage,Purchase,funded,2022-12-21
+123681,3,2133,6,345000,0.0654,568,AB,Fort Saskatchewan,Owner Occupied,First Mortgage,Purchase,cancelled,2022-01-27
+123682,17,1940,16,456500,0.0684,578,AB,Fort Saskatchewan,Owner Occupied,HELOC,refinance,approved,2022-01-30
+123683,15,2990,12,340950,0.0739,785,AB,Fort Saskatchewan,Owner Occupied,First Mortgage,Purchase,approved,2022-02-14
+123684,8,1665,16,240950,0.0664,648,AB,St. Albert,Owner Occupied,First Mortgage,Purchase,approved,2022-02-24
+123685,25,1941,3,100000,0.0794,586,AB,St. Albert,Owner Occupied,HELOC,refinance,approved,2022-03-30
+123686,10,1168,3,220000,0.0754,582,AB,St. Albert,Owner Occupied,HELOC,refinance,funded,2022-05-03
+123687,7,2580,17,350000,0.0664,700,AB,Chestermere,Owner Occupied,HELOC,refinance,approved,2022-06-16
+123688,19,1759,8,450000,0.0814,800,AB,Chestermere,Owner Occupied,Second Mortgage,refinance,approved,2022-06-21
+123689,29,2212,13,1000000,0.0704,500,AB,Chestermere,Owner Occupied,Second Mortgage,refinance,funded,2022-06-23
+123690,22,2665,9,1200000,0.0704,600,AB,Okotoks,Owner Occupied,HELOC,refinance,declined,2022-07-03
+123691,35,1768,12,300000,0.0774,639,AB,Okotoks,Owner Occupied,Second Mortgage,refinance,funded,2022-07-17
+123692,11,2058,16,605000,0.0664,658,AB,Okotoks,Owner Occupied,First Mortgage,Purchase,declined,2022-07-20
+123693,2,2640,8,670500,0.0689,639,AB,Okotoks,Owner Occupied,HELOC,refinance,funded,2022-07-25
+123694,3,1963,14,325100,0.0744,639,AB,Okotoks,Owner Occupied,First Mortgage,Purchase,funded,2022-07-26
+123695,21,1095,14,450510,0.0744,639,AB,Okotoks,Owner Occupied,First Mortgage,Purchase,approved,2022-08-24
+123696,27,1032,15,1500500,0.0664,639,AB,Calgary,Owner Occupied,Second Mortgage,refinance,funded,2022-09-07
+123697,16,1187,4,1300500,0.0814,639,AB,Okotoks,Owner Occupied,HELOC,refinance,declined,2022-09-22
+123698,27,2773,1,1230000,0.0799,639,AB,Calgary,Owner Occupied,First Mortgage,Purchase,cancelled,2022-09-26
+123699,14,2798,13,560500,0.0704,639,AB,Airdrie,Owner Occupied,HELOC,refinance,declined,2022-09-29
+123700,29,2525,7,460000,0.0674,639,AB,Cochrane,Owner Occupied,First Mortgage,Purchase,funded,2022-10-18
+123701,14,2184,14,458000,0.0794,639,AB,Cochrane,Owner Occupied,First Mortgage,Purchase,approved,2022-11-08
+123702,8,1857,2,230950,0.0794,568,AB,Cochrane,Owner Occupied,First Mortgage,Purchase,funded,2022-11-10
+123703,34,2279,16,569500,0.0689,568,AB,Cochrane,Owner Occupied,First Mortgage,Purchase,declined,2022-12-14
+123704,34,1427,16,395500,0.0674,578,ON,Toronto,Owner Occupied,Second Mortgage,refinance,funded,2022-12-19
+123705,13,1543,17,604600,0.0664,785,ON,Toronto,Owner Occupied,Second Mortgage,refinance,cancelled,2022-12-29
+123706,33,2391,4,294000,0.0794,865,ON,Toronto,Owner Occupied,First Mortgage,Purchase,approved,2022-01-06
+123707,20,1104,12,239500,0.0744,584,ON,Toronto,Owner Occupied,Second Mortgage,refinance,declined,2022-01-24
+123708,34,1208,13,239000,0.0754,656,ON,Scarborough,Owner Occupied,HELOC,refinance,funded,2022-02-07
+123709,3,1322,16,129500,0.0814,659,ON,Scarborough,Owner Occupied,HELOC,refinance,funded,2022-04-24
+123710,25,1988,17,708300,0.0734,482,ON,Scarborough,Owner Occupied,Second Mortgage,refinance,funded,2022-05-08
+123711,23,2262,5,962000,0.0754,872,ON,Scarborough,Owner Occupied,First Mortgage,Purchase,cancelled,2022-05-12
+123712,27,1260,13,999000,0.0744,778,ON,Hamilton,Owner Occupied,First Mortgage,Purchase,declined,2022-05-29
+123713,36,2392,4,888000,0.0779,542,ON,Hamilton,Owner Occupied,HELOC,refinance,cancelled,2022-06-01
+123714,21,2516,6,777000,0.0739,549,ON,Hamilton,Owner Occupied,First Mortgage,refinance,funded,2022-06-16
+123715,28,2277,6,230000,0.0764,489,ON,Hamilton,Rental ,HELOC,refinance,approved,2022-07-03
+123716,20,1181,18,666000,0.0734,748,ON,Oakville,Owner Occupied,HELOC,refinance,approved,2022-07-04
+123717,23,2374,13,450000,0.0714,745,ON,Oakville,Owner Occupied,First Mortgage,refinance,funded,2022-07-05
+123718,2,2980,11,555000,0.0689,685,ON,Oakville,Rental ,HELOC,refinance,funded,2022-07-07
+123719,5,1239,14,444000,0.0794,658,ON,Milton,Owner Occupied,HELOC,refinance,funded,2022-08-01
+123720,23,2586,17,333000,0.0794,689,ON,Milton,Owner Occupied,HELOC,refinance,cancelled,2022-08-04
+123721,13,1155,7,205000,0.0794,487,ON,Milton,Rental ,Second Mortgage,refinance,funded,2022-08-10
+123722,1,1674,16,111000,0.0684,785,ON,Georgetown,Owner Occupied,HELOC,refinance,approved,2022-08-25
+123723,13,1391,9,123000,0.0794,848,ON,Georgetown,Owner Occupied,HELOC,refinance,funded,2022-08-31
+123724,14,1431,9,234000,0.0754,858,ON,Waterloo,Rental ,Second Mortgage,refinance,funded,2022-09-04
+123725,22,1397,10,345000,0.0684,867,ON,Waterloo,Owner Occupied,HELOC,refinance,funded,2022-10-23
+123726,34,2778,17,456000,0.0694,785,ON,London,Owner Occupied,First Mortgage,refinance,funded,2022-11-02
+123727,25,2422,1,567000,0.0794,598,ON,London,Rental ,First Mortgage,refinance,declined,2022-11-17
+123728,17,2022,15,678000,0.0714,487,ON,Ottawa,Owner Occupied,First Mortgage,refinance,approved,2022-11-27
+123729,15,1186,3,789000,0.0679,798,ON,Ottawa,Owner Occupied,Second Mortgage,refinance,cancelled,2022-12-19
+123730,22,1428,15,890000,0.0769,984,ON,Ottawa,Rental ,HELOC,refinance,approved,2022-12-26
+123731,9,2929,12,908000,0.0714,458,ON,London,Owner Occupied,Second Mortgage,refinance,funded,2022-01-23
+123732,23,2074,8,987000,0.0664,788,ON,Guelph,Owner Occupied,Second Mortgage,refinance,funded,2022-01-25
+123733,29,1817,18,876000,0.0664,548,ON,Guelph,Rental ,First Mortgage,refinance,declined,2022-01-31
+123734,4,1771,3,876000,0.0789,645,ON,Guelph,Owner Occupied,First Mortgage,refinance,funded,2022-02-17
+123735,30,2018,17,765000,0.0794,545,ON,Guelph,Owner Occupied,Second Mortgage,refinance,declined,2022-02-23
+123736,14,2566,7,654000,0.0794,688,ON,London,Rental ,First Mortgage,refinance,funded,2022-03-09
+123737,28,2279,13,543000,0.0734,479,ON,Belmont,Owner Occupied,First Mortgage,refinance,funded,2022-03-22
+123738,7,1587,14,432000,0.0754,687,ON,Belmont,Owner Occupied,First Mortgage,refinance,cancelled,2022-04-21
+123739,8,1514,8,321000,0.0664,678,ON,Belmont,Rental ,First Mortgage,refinance,funded,2022-04-25
+123740,10,1388,12,219000,0.0789,574,ON,Niagara Falls,Owner Occupied,First Mortgage,refinance,declined,2022-04-28
+123741,13,2290,11,112500,0.0714,647,ON,Niagara Falls,Owner Occupied,Second Mortgage,refinance,approved,2022-05-15
+123742,31,2013,16,198000,0.0664,857,ON,Windsor,Rental ,Second Mortgage,refinance,funded,2022-05-30
+123743,35,2351,16,395500,0.0679,8748,ON,Kingston,Owner Occupied,First Mortgage,refinance,approved,2022-07-12
+123744,14,1167,6,125000,0.0794,848,ON,Kingston,Owner Occupied,Second Mortgage,refinance,funded,2022-07-14
+123745,14,2038,16,346000,0.0744,858,ON,Kingston,Rental ,HELOC,refinance,approved,2022-08-16
+123746,21,1033,5,100000,0.0754,979,BC,Kamloops,Owner Occupied,HELOC,refinance,declined,2022-09-06
+123747,23,1896,8,220000,0.0749,673,ON,Peterborough,Owner Occupied,First Mortgage,refinance,declined,2022-09-13
+123748,22,1481,8,350000,0.0799,451,BC,Kamloops,Rental ,First Mortgage,refinance,approved,2022-09-29
+123749,26,2738,9,450000,0.0764,548,ON,Sarnia,Owner Occupied,First Mortgage,refinance,funded,2022-10-03
+123750,27,2516,17,1000000,0.0654,897,ON,Sarnia,Owner Occupied,HELOC,refinance,declined,2022-10-27
+123751,3,1467,11,1200000,0.0764,874,AB,Calgary,Rental ,First Mortgage,refinance,declined,2022-11-02
+123752,13,2096,14,300000,0.0664,645,ON,Ingersoll,Owner Occupied,HELOC,refinance,funded,2022-11-07
+123753,30,2759,3,605000,0.0724,547,BC,Victoria,Owner Occupied,First Mortgage,refinance,funded,2022-11-08
+123754,17,1508,14,610000,0.0664,874,SK,Regina,Rental ,First Mortgage,refinance,approved,2022-12-01
+123755,1,2280,4,515000,0.0709,800,ON,Sudbury,Owner Occupied,First Mortgage,refinance,funded,2022-12-11
+123756,24,2233,15,420000,0.0789,650,ON,Sudbury,Owner Occupied,First Mortgage,refinance,funded,2022-03-15
+123757,18,2566,1,450000,0.0744,870,ON,Orillia,Rental ,First Mortgage,refinance,declined,2022-03-16
+123758,29,1796,13,780000,0.0809,800,BC,Qualicum Beach,Owner Occupied,First Mortgage,refinance,cancelled,2022-03-20
+123759,34,1404,2,790000,0.0664,710,ON,Cornwall,Owner Occupied,HELOC,refinance,funded,2022-04-25
+123760,4,1468,10,760000,0.0699,711,BC,Victoria,Rental ,First Mortgage,refinance,funded,2022-04-28
+123761,15,1899,15,450000,0.0734,510,BC,Vancouver,Owner Occupied,First Mortgage,refinance,cancelled,2022-05-22
+123762,25,1469,8,120000,0.0734,650,ON,Collingwood,Owner Occupied,First Mortgage,refinance,cancelled,2022-06-12
+123763,27,1434,8,140000,0.0689,505,AB,Calgary,Rental ,First Mortgage,refinance,funded,2022-06-13
+123764,33,1879,14,865000,0.0764,567,AB,Calgary,Owner Occupied,HELOC,refinance,declined,2022-06-15
+123765,34,2306,3,730500,0.0809,598,MB,Brantford,Owner Occupied,Second Mortgage,refinance,approved,2022-06-29
+123766,2,2936,16,345000,0.0764,548,BC,Vancouver,Rental ,First Mortgage,p,funded,2022-07-07
+123767,26,1242,4,456500,0.0664,874,AB,Edmonton,Owner Occupied,HELOC,refinance,funded,2022-07-19
+123768,30,2212,13,340950,0.0664,568,AB,Edmonton,Owner Occupied,HELOC,refinance,declined,2022-08-15
+123769,17,1118,14,240950,0.0764,568,ON,Brampton,Rental ,HELOC,refinance,declined,2022-09-04
+123770,2,1697,7,100000,0.0664,578,ON,Brampton,Owner Occupied,HELOC,refinance,approved,2022-09-06
+123771,28,2900,10,220000,0.0794,785,ON,Brampton,Owner Occupied,First Mortgage,Purchase,funded,2022-09-18
+123772,28,1395,7,350000,0.0789,648,ON,Brampton,Rental ,First Mortgage,refinance,cancelled,2022-10-18
+123773,16,2925,14,450000,0.0714,586,AB,Calgary,Owner Occupied,HELOC,refinance,cancelled,2022-10-20
+123774,12,2098,4,1000000,0.0724,582,AB,Calgary,Owner Occupied,HELOC,refinance,declined,2022-10-31
+123775,34,2017,13,1200000,0.0774,700,AB,Edmonton,Rental ,HELOC,refinance,funded,2022-11-08
+123776,35,2744,4,300000,0.0809,800,NL,St. Johns,Owner Occupied,First Mortgage,Purchase,funded,2022-11-22
+123777,25,2799,9,605000,0.0669,500,BC,Langley,Owner Occupied,HELOC,refinance,approved,2022-11-29
+123778,20,2368,14,670500,0.0664,600,ON,Ajax,Rental ,First Mortgage,Purchase,funded,2022-12-22
+123779,2,2023,7,325100,0.0684,639,BC,Saanich,Owner Occupied,First Mortgage,Purchase,approved,2022-12-28
+123780,25,2507,1,450510,0.0754,658,NL,St. Johns,Owner Occupied,HELOC,refinance,declined,2022-12-29
+123781,8,2436,17,1500500,0.0664,639,ON,Brampton,Rental ,First Mortgage,refinance,declined,2022-01-02
+123782,31,1256,17,1300500,0.0694,639,ON,Etobiocke,Owner Occupied,First Mortgage,refinance,declined,2022-01-09
+123783,31,2884,7,1230000,0.0754,639,BC,Maple Ridge,Owner Occupied,Second Mortgage,refinance,approved,2022-02-14
+123784,3,2770,2,560500,0.0664,639,AB,Edmonton,Rental ,First Mortgage,Purchase,declined,2022-02-21
+123785,31,2097,3,460000,0.0764,639,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,cancelled,2022-02-28
+123786,27,1080,17,458000,0.0704,639,ON,Etobicoke,Owner Occupied,First Mortgage,Purchase,approved,2022-03-27
+123787,24,2745,1,230950,0.0734,639,ON,Etobicoke,Rental ,First Mortgage,Purchase,cancelled,2022-04-11
+123788,22,2780,7,569500,0.0699,639,AB,Calgary,Owner Occupied,HELOC,refinance,declined,2022-05-08
+123789,9,2760,7,395500,0.0794,639,AB,Calgary,Owner Occupied,First Mortgage,Purchase,funded,2022-06-05
+123790,31,1525,6,604600,0.0674,568,AB,Calgary,Rental ,HELOC,refinance,funded,2022-06-09
+123791,26,1161,4,294000,0.0734,568,ON,Etobicoke,Owner Occupied,Second Mortgage,refinance,approved,2022-06-13
+123792,15,2629,4,239500,0.0714,578,ON,Etobicoke,Owner Occupied,HELOC,refinance,funded,2022-06-15
+123793,12,1142,13,239000,0.0704,785,BC,Maple Ridge,Rental ,First Mortgage,Purchase,funded,2022-06-30
+123794,29,2128,5,129500,0.0654,865,ON,Newmarket,Owner Occupied,First Mortgage,Purchase,funded,2022-07-07
+123795,18,2600,14,708300,0.0779,584,ON,Newmarket,Owner Occupied,First Mortgage,Purchase,approved,2022-08-18
+123796,1,1159,16,962000,0.0674,656,AB,Calgary,Rental ,Second Mortgage,refinance,approved,2022-08-28
+123797,12,1682,5,999000,0.0764,659,BC,Abbotsford,Owner Occupied,First Mortgage,Purchase,funded,2022-09-18
+123798,28,2670,1,888000,0.0784,482,SK,Saskatoon,Owner Occupied,HELOC,refinance,cancelled,2022-10-03
+123799,33,1358,14,777000,0.0774,872,ON,Ajax,Rental ,First Mortgage,Purchase,declined,2022-10-12
+123800,10,2469,14,230000,0.0699,778,ON,Ajax,Owner Occupied,HELOC,refinance,approved,2022-10-20
+123801,21,2056,12,666000,0.0794,542,ON,Pickering,Owner Occupied,First Mortgage,Purchase,funded,2022-10-24
+123802,29,1232,13,450000,0.0714,549,PEI,Charlottetown,Rental ,First Mortgage,Purchase,cancelled,2022-11-06
+123803,36,2437,7,555000,0.0724,489,BC,Surrey,Owner Occupied,First Mortgage,Purchase,funded,2022-11-23
+123804,22,1073,3,444000,0.0709,748,AB,Langley,Owner Occupied,HELOC,refinance,declined,2022-12-14
+123805,7,1662,15,333000,0.0699,745,AB,Calgary,Rental ,First Mortgage,refinance,funded,2022-12-20
+123806,30,2809,10,205000,0.0764,685,ON,Pickering,Owner Occupied,First Mortgage,Purchase,cancelled,2022-05-16
+123807,29,1242,10,111000,0.0699,658,BC,Surrey,Owner Occupied,HELOC,refinance,approved,2022-05-25
+123808,2,2144,4,123000,0.0664,689,AB,Calgary,Rental ,HELOC,refinance,approved,2022-06-01
+123809,10,1089,7,234000,0.0694,487,ON,Brampton,Owner Occupied,HELOC,refinance,approved,2022-06-02
+123810,26,2888,7,345000,0.0664,785,ON,Toronto,Owner Occupied,HELOC,refinance,approved,2022-06-14
+123811,17,1323,16,456000,0.0734,848,AB,Edmonton,Rental ,Second Mortgage,refinance,funded,2022-06-29
+123812,9,1925,7,567000,0.0664,858,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,cancelled,2022-06-30
+123813,7,2554,6,678000,0.0759,867,BC,Surrey,Owner Occupied,Second Mortgage,refinance,declined,2022-07-05
+123814,26,1156,3,789000,0.0789,785,ON,Toronto,Rental ,HELOC,refinance,declined,2022-07-06
+123815,27,2569,15,890000,0.0794,598,ON,Toronto,Owner Occupied,HELOC,refinance,approved,2022-07-20
+123816,12,1066,16,908000,0.0794,487,ON,Toronto,Owner Occupied,First Mortgage,refinance,approved,2022-07-21
+123817,26,1854,6,987000,0.0684,798,ON,Toronto,Rental ,Second Mortgage,refinance,funded,2022-08-02
+123818,8,2899,5,876000,0.0754,984,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,approved,2022-08-08
+123819,20,2931,8,876000,0.0724,458,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,declined,2022-08-09
+123820,14,2742,10,765000,0.0774,979,AB,Edmonton,Rental ,First Mortgage,Purchase,approved,2022-08-10
+123821,3,1206,13,654000,0.0814,673,ON,Toronto,Owner Occupied,First Mortgage,Purchase,funded,2022-08-11
+123822,30,1860,10,543000,0.0664,451,ON,Toronto,Owner Occupied,HELOC,refinance,approved,2022-08-17
+123823,8,1475,6,432000,0.0664,548,ON,Toronto,Rental ,First Mortgage,Purchase,cancelled,2022-08-18
+123824,10,2074,14,321000,0.0664,897,AB,Edmonton,Owner Occupied,HELOC,refinance,approved,2022-08-22
+123825,29,1225,13,219000,0.0784,874,AB,Edmonton,Owner Occupied,HELOC,refinance,cancelled,2022-08-25
+123826,25,1121,9,112500,0.0759,645,ON,Mississauga,Rental ,HELOC,refinance,funded,2022-09-15
+123827,34,1555,3,198000,0.0694,547,AB,Edmonton,Owner Occupied,HELOC,refinance,declined,2022-09-16
+123828,25,1293,2,395500,0.0699,874,BC,Surrey,Owner Occupied,HELOC,refinance,approved,2022-09-19
+123829,8,1632,5,125000,0.0664,800,AB,Calgary,Rental ,First Mortgage,Purchase,approved,2022-09-20
+123830,8,1629,4,346000,0.0724,650,BC,Surrey,Owner Occupied,HELOC,refinance,funded,2022-09-26
+123831,3,2615,9,432000,0.0809,870,BC,Surrey,Owner Occupied,Second Mortgage,refinance,declined,2022-05-11
+123832,10,2974,5,120100,0.0669,800,ON,Oakville,Rental ,First Mortgage,refinance,funded,2022-05-13
+123833,1,2032,14,406600,0.0734,710,ON,Georgetown,Owner Occupied,HELOC,refinance,declined,2022-05-16
+123834,10,2318,15,204900,0.0799,711,BC,Surrey,Owner Occupied,First Mortgage,Purchase,funded,2022-05-17
+123835,23,2294,6,238500,0.0689,510,AB,Calgary,Rental ,First Mortgage,refinance,approved,2022-05-19
+123836,15,1585,5,693500,0.0664,650,ON,Milton,Owner Occupied,First Mortgage,refinance,funded,2022-05-23
+123837,8,1354,6,1120500,0.0769,505,BC,Victoria,Owner Occupied,HELOC,refinance,funded,2022-06-01
+123838,4,2099,9,1320500,0.0664,567,AB,Edmonton,Rental ,First Mortgage,refinance,approved,2022-06-06
+123839,15,2414,10,985500,0.0664,598,AB,Calgary,Owner Occupied,HELOC,refinance,approved,2022-06-08
+123840,10,2767,13,192000,0.0724,548,AB,Calgary,Owner Occupied,HELOC,refinance,declined,2022-06-20
+123841,10,2820,7,100000,0.0674,874,AB,Calgary,Rental ,HELOC,refinance,cancelled,2022-06-23
+123842,21,2226,1,100000,0.0714,568,ON,Etobicoke,Rental ,HELOC,refinance,funded,2022-06-24
+123843,14,2432,16,293500,0.0754,568,AB,Calgary,Rental ,HELOC,refinance,cancelled,2022-07-01
+123844,25,1421,13,129500,0.0674,578,ON,Niagara Falls,Rental ,HELOC,refinance,cancelled,2022-07-05
+123845,21,2015,17,496000,0.0664,785,AB,Calgary,Rental ,HELOC,refinance,funded,2022-07-12
+123846,35,2564,13,394500,0.0794,648,ON,Niagara Falls,Rental ,First Mortgage,refinance,approved,2022-07-28
+123847,4,2327,9,205000,0.0794,586,MB,Winnipeg,Rental ,HELOC,refinance,approved,2022-08-02
+123848,21,2285,18,193500,0.0714,582,BC,Surrey,Rental ,Second Mortgage,refinance,declined,2022-08-03
+123849,13,2050,13,794500,0.0734,700,BC,Vancouver,Rental ,Second Mortgage,refinance,funded,2022-08-15
+123850,27,2503,15,684500,0.0744,800,ON,Oakville,Rental ,First Mortgage,Purchase,funded,2022-08-19
+123851,30,2619,9,395600,0.0749,500,AB,Edmonton,Rental ,Second Mortgage,refinance,funded,2022-09-01
+123852,24,1402,14,234600,0.0674,600,ON,Markham,Rental ,Second Mortgage,refinance,funded,2022-09-02
+123853,12,2638,3,239500,0.0664,639,BC,Surrey,Rental ,HELOC,refinance,declined,2022-09-07
+123854,27,1000,10,19100,0.0784,658,ON,Markham,Rental ,First Mortgage,Purchase,approved,2022-09-15
+123855,23,1695,2,194500,0.0659,639,AB,Calgary,Rental ,Second Mortgage,refinance,approved,2022-09-23
+123856,14,2394,4,795000,0.0744,639,ON,Markham,Rental ,HELOC,refinance,approved,2022-05-11
+123857,24,2159,1,658000,0.0734,639,AB,Edmonton,Rental ,First Mortgage,refinance,declined,2022-05-13
+123858,10,1501,3,395000,0.0684,639,ON,Markham,Rental ,First Mortgage,refinance,funded,2022-05-16
+123859,13,2020,3,1009500,0.0724,639,AB,Edmonton,Rental ,First Mortgage,refinance,approved,2022-05-17
+123860,5,2104,5,125500,0.0669,639,ON,Etobicoke,Rental ,HELOC,refinance,declined,2022-05-19
+123861,34,2035,5,1125500,0.0764,639,ON,Toronto,Rental ,HELOC,refinance,funded,2022-05-23
+123862,30,2778,3,305600,0.0684,639,BC,Langley,Rental ,First Mortgage,refinance,declined,2022-06-01
+123863,14,2306,4,395700,0.0774,639,ON,Scarborough,Rental ,First Mortgage,Purchase,funded,2022-06-06
+123864,35,2979,2,128300,0.0774,568,AB,Edmonton,Rental ,Second Mortgage,refinance,approved,2022-06-08
+123865,18,1741,5,608500,0.0704,568,NS,Halifax,Rental ,HELOC,refinance,funded,2022-06-20
+123866,28,1698,6,789000,0.0814,578,BC,Coquitlam,Rental ,First Mortgage,Purchase,approved,2022-06-23
+123867,24,1921,4,608500,0.0764,785,BC,Vancouver,Rental ,Second Mortgage,refinance,funded,2022-06-24
+123868,16,2491,5,555000,0.0784,865,BC,Burnaby,Rental ,Second Mortgage,refinance,funded,2022-07-01
+123869,1,1799,1,555000,0.0764,584,BC,Surrey,Rental ,HELOC,refinance,funded,2022-07-05
+123870,23,2417,4,239000,0.0774,656,BC,Surrey,Rental ,Second Mortgage,refinance,funded,2022-07-12
+123871,31,1252,1,876000,0.0664,659,AB,Edmonton,Rental ,First Mortgage,Purchase,approved,2022-07-28
+123872,25,1517,3,730500,0.0794,482,BC,Vancouver,Rental ,First Mortgage,Purchase,funded,2022-08-02
+123873,34,1778,5,300000,0.0809,872,BC,Vancouver,Rental ,First Mortgage,refinance,approved,2022-08-03
+123874,12,2602,1,220000,0.0794,778,ON,Scarborough,Rental ,HELOC,refinance,funded,2022-08-15
+123875,2,1986,5,220000,0.0744,542,AB,Calgary,Owner Occupied,First Mortgage,refinance,declined,2022-08-19
+123876,25,1603,2,128300,0.0744,549,ON,North York,Owner Occupied,Second Mortgage,refinance,funded,2022-09-01
+123877,1,1134,6,678000,0.0794,489,BC,Courtenay,Rental ,HELOC,refinance,approved,2022-09-02
+123878,1,1714,1,240950,0.0784,748,BC,Abbotsford,Owner Occupied,First Mortgage,refinance,funded,2022-09-07
+123879,4,1845,4,1200000,0.0794,745,BC,Kamloops,Owner Occupied,HELOC,refinance,approved,2022-09-15
+123880,4,1743,4,394500,0.0704,685,AB,Calgary,Rental ,Second Mortgage,refinance,funded,2022-09-23
+123881,29,2788,4,1200000,0.0684,658,BC,Kelowna,Rental ,First Mortgage,Purchase,funded,2022-05-17
+123882,34,2576,4,987000,0.0794,689,ON,North York,Rental ,HELOC,refinance,funded,2022-05-19
+123883,27,1007,6,460000,0.0689,487,AB,Calgary,Rental ,First Mortgage,Purchase,declined,2022-05-26
+123884,20,1333,5,666000,0.0764,785,ON,North York,Rental ,HELOC,refinance,declined,2022-05-30
+123885,7,1576,5,789000,0.0809,848,ON,North York,Owner Occupied,First Mortgage,refinance,funded,2022-06-01
+123886,5,1415,1,395000,0.0719,858,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-06-03
+123887,3,2520,5,350000,0.0684,867,ON,Oshawa,Rental ,HELOC,refinance,funded,2022-06-23
+123888,2,2591,4,420000,0.0664,785,ON,Oshawa,Owner Occupied,Second Mortgage,refinance,approved,2022-06-24
+123889,27,2581,2,515000,0.0799,598,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-06-29
+123890,16,1717,6,345000,0.0794,487,ON,Oshawa,Rental ,HELOC,refinance,funded,2022-07-07
+123891,22,1078,4,239500,0.0764,798,AB,Calgary,Rental ,First Mortgage,Purchase,funded,2022-07-08
+123892,23,2270,3,1000000,0.0699,984,ON,Oshawa,Rental ,First Mortgage,Purchase,funded,2022-07-19
+123893,14,1343,1,406600,0.0714,458,ON,Toronto,Rental ,First Mortgage,refinance,approved,2022-07-21
+123894,23,2115,1,230000,0.0734,788,AB,Calgary,Owner Occupied,First Mortgage,refinance,funded,2022-07-26
+123895,7,1455,4,346000,0.0664,548,ON,Georgetown,Owner Occupied,First Mortgage,refinance,funded,2022-08-12
+123896,8,2035,6,730500,0.0769,645,BC,Langley,Owner Occupied,First Mortgage,refinance,cancelled,2022-08-18
+123897,3,1533,1,456000,0.0794,545,BC,Surrey,Owner Occupied,First Mortgage,refinance,declined,2022-08-19
+123898,31,1997,4,340950,0.0669,688,ON,Ingersoll,Owner Occupied,HELOC,refinance,funded,2022-08-22
+123899,23,1729,3,111000,0.0774,479,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-08-23
+123900,2,2221,2,194500,0.0724,687,ON,Oakville,Owner Occupied,First Mortgage,refinance,funded,2022-08-29
+123901,27,1395,5,876000,0.0814,678,BC,Maple Ridge,Owner Occupied,First Mortgage,Purchase,funded,2022-09-05
+123902,29,2014,2,460000,0.0774,574,BC,Maple Ridge,Owner Occupied,HELOC,refinance,declined,2022-09-14
+123903,21,2849,6,760000,0.0659,647,ON,Kingston,Owner Occupied,Second Mortgage,refinance,declined,2022-09-16
+123904,16,2295,5,1500500,0.0759,857,BC,Maple Ridge,Owner Occupied,First Mortgage,Purchase,approved,2022-09-20
+123905,1,1773,2,239000,0.0674,848,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,cancelled,2022-09-21
+123906,29,2788,4,456500,0.0689,848,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,funded,2022-05-17
+123907,32,1834,4,129500,0.0719,858,BC,Victoria,Owner Occupied,First Mortgage,Purchase,declined,2022-05-19
+123908,14,1550,3,865000,0.0689,858,AB,Edmonton,Owner Occupied,HELOC,refinance,cancelled,2022-05-26
+123909,36,2882,1,708300,0.0809,650,ON,Windsor,Owner Occupied,Second Mortgage,refinance,funded,2022-05-30
+123910,20,1399,4,450000,0.0714,785,PEI,Charlottetown,Owner Occupied,First Mortgage,Purchase,funded,2022-06-01
+123911,18,1044,1,230950,0.0794,479,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,cancelled,2022-06-03
+123912,4,1309,3,890000,0.0704,785,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,cancelled,2022-06-23
+123913,5,1884,1,420000,0.0684,785,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-06-24
+123914,31,1768,3,876000,0.0759,785,ON,Hamilton,Owner Occupied,First Mortgage,refinance,declined,2022-06-29
+123915,32,1292,1,100000,0.0674,548,AB,Calgary,Rental ,First Mortgage,Purchase,approved,2022-07-07
+123916,15,1800,4,240950,0.0659,542,BC,Langford,Owner Occupied,HELOC,refinance,funded,2022-07-08
+123917,4,1991,5,240950,0.0664,584,ON,Stoney Creek,Owner Occupied,First Mortgage,refinance,funded,2022-07-19
+123918,24,2310,4,1230000,0.0734,785,ON,Stoney Creek,Rental ,Second Mortgage,refinance,declined,2022-07-21
+123919,8,2033,5,890000,0.0714,8748,ON,Stoney Creek,Owner Occupied,First Mortgage,Purchase,declined,2022-07-26
+123920,35,1854,4,120100,0.0759,700,ON,Stoney Creek,Owner Occupied,HELOC,refinance,approved,2022-08-12
+123921,30,1744,5,125000,0.0754,547,ON,Stoney Creek,Rental ,First Mortgage,Purchase,funded,2022-08-18
+123922,26,1521,1,1009500,0.0654,639,AB,Calgary,Owner Occupied,HELOC,refinance,cancelled,2022-08-19
+123923,22,1913,5,450000,0.0794,568,ON,Toronto,Owner Occupied,Second Mortgage,refinance,cancelled,2022-08-22
+123924,28,1199,2,777000,0.0674,451,AB,Calgary,Rental ,First Mortgage,refinance,declined,2022-08-23
+123925,2,1808,5,395500,0.0664,639,AB,Calgary,Owner Occupied,First Mortgage,Purchase,funded,2022-08-29
+123926,19,2753,4,345000,0.0734,582,AB,Calgary,Owner Occupied,First Mortgage,Purchase,funded,2022-09-05
+123927,36,1438,6,777000,0.0689,688,BC,Victoria,Rental ,HELOC,refinance,approved,2022-09-14
+123928,6,1639,3,350000,0.0814,600,BC,Langford,Owner Occupied,HELOC,refinance,funded,2022-09-16
+123929,16,2119,5,234600,0.0664,578,ON,Brampton,Owner Occupied,Second Mortgage,refinance,approved,2022-09-20
+123930,7,2473,5,100000,0.0664,785,ON,Oakville,Rental ,Second Mortgage,refinance,declined,2022-09-21
+123931,34,2777,2,458000,0.0699,639,ON,Mississauga,Owner Occupied,HELOC,refinance,declined,2022-05-10
+123932,2,2986,5,605000,0.0809,778,BC,Langley,Owner Occupied,First Mortgage,refinance,declined,2022-05-20
+123933,26,2944,4,450000,0.0704,639,BC,Port Alberni,Owner Occupied,First Mortgage,refinance,approved,2022-05-24
+123934,17,1116,1,1500500,0.0664,489,AB,Edmonton,Owner Occupied,First Mortgage,refinance,declined,2022-05-25
+123935,7,1696,4,458000,0.0664,568,ON,Milton,Owner Occupied,First Mortgage,Purchase,cancelled,2022-05-30
+123936,31,2432,5,560500,0.0809,567,BC,Port Alberni,Owner Occupied,HELOC,Purchase,approved,2022-05-31
+123937,9,1565,1,780000,0.0764,598,ON,Hamilton,Owner Occupied,First Mortgage,Purchase,cancelled,2022-06-02
+123938,12,1409,6,220000,0.0764,745,BC,Richmond,Owner Occupied,First Mortgage,Purchase,declined,2022-06-17
+123939,23,3001,5,515000,0.0664,984,AB,Edmonton,Owner Occupied,First Mortgage,refinance,funded,2022-06-20
+123940,29,1428,5,605000,0.0704,547,BC,Richmond,Owner Occupied,First Mortgage,refinance,funded,2022-06-21
+123941,6,2781,3,234600,0.0714,639,ON,Hamilton,Owner Occupied,HELOC,refinance,approved,2022-06-28
+123942,8,2136,4,293500,0.0789,800,ON,Hamilton,Owner Occupied,First Mortgage,Purchase,funded,2022-07-05
+123943,9,1119,4,1230000,0.0714,505,ON,Niagara Falls,Owner Occupied,HELOC,refinance,funded,2022-07-21
+123944,1,2794,2,395700,0.0809,748,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-07-27
+123945,4,2529,1,100000,0.0674,857,BC,Richmond,Owner Occupied,First Mortgage,Purchase,approved,2022-08-04
+123946,19,2453,5,345000,0.0794,650,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,approved,2022-08-05
+123947,15,1440,1,321000,0.0664,798,BC,Richmond,Owner Occupied,First Mortgage,Purchase,funded,2022-08-08
+123948,32,1696,5,205000,0.0794,865,ON,Windsor,Owner Occupied,Second Mortgage,refinance,cancelled,2022-08-24
+123949,7,1716,3,394500,0.0814,574,AB,Edmonton,Owner Occupied,HELOC,refinance,declined,2022-08-29
+123950,3,2939,3,321000,0.0699,548,ON,Kitchener,Owner Occupied,First Mortgage,Purchase,approved,2022-09-01
+123951,15,2352,5,340950,0.0794,867,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,funded,2022-09-07
+123952,36,2484,5,321000,0.0794,568,ON,Kitchener,Owner Occupied,HELOC,refinance,cancelled,2022-09-08
+123953,11,2415,5,444000,0.0789,458,ON,Kitchener,Owner Occupied,First Mortgage,refinance,funded,2022-09-14
+123954,23,2549,2,999000,0.0684,745,AB,Edmonton,Owner Occupied,First Mortgage,refinance,declined,2022-09-15
+123955,23,1727,5,450000,0.0664,748,AB,Edmonton,Owner Occupied,First Mortgage,refinance,funded,2022-09-20
+123956,15,2540,3,1200000,0.0664,857,BC,White Rock,Owner Occupied,First Mortgage,Purchase,cancelled,2022-12-08
+123957,13,2990,1,496000,0.0689,584,ON,Waterloo,Owner Occupied,First Mortgage,Purchase,approved,2022-09-16
+123958,12,2028,3,1320500,0.0794,685,AB,Calgary,Owner Occupied,First Mortgage,Purchase,approved,2022-01-10
+123959,18,2348,1,205000,0.0754,639,ON,Waterloo,Owner Occupied,HELOC,refinance,approved,2022-05-16
+123960,13,2118,6,420000,0.0679,458,AB,Calgary,Owner Occupied,First Mortgage,Purchase,approved,2022-06-01
+123961,22,1963,5,346000,0.0689,848,BC,Chilliwack,Owner Occupied,First Mortgage,Purchase,funded,2022-03-03
+123962,14,1093,6,120000,0.0669,482,ON,Waterloo,Owner Occupied,Second Mortgage,refinance,cancelled,2022-07-21
+123963,14,2766,4,230000,0.0744,678,ON,Waterloo,Owner Occupied,First Mortgage,refinance,declined,2022-09-15
+123964,12,2425,1,219000,0.0809,639,BC,Kelowna,Owner Occupied,First Mortgage,refinance,declined,2022-05-20
+123965,20,2326,4,140000,0.0664,711,ON,Toronto,Owner Occupied,First Mortgage,refinance,approved,2022-02-22
+123966,17,1357,1,678000,0.0794,867,ON,Toronto,Owner Occupied,HELOC,refinance,approved,2022-06-20
+123967,23,2437,6,300000,0.0704,584,ON,Guelph,Owner Occupied,HELOC,refinance,funded,2022-12-22
+123968,19,1366,4,610000,0.0664,897,ON,Guelph,Owner Occupied,First Mortgage,refinance,approved,2022-04-06
+123969,23,1892,3,458000,0.0664,874,AB,Calgary,Owner Occupied,HELOC,refinance,declined,2022-09-14
+123970,12,1759,4,1120500,0.0809,785,BC,Abbotsford,Owner Occupied,First Mortgage,refinance,approved,2022-08-31
+123971,17,1130,3,604600,0.0684,505,NS,Halifax,Owner Occupied,HELOC,refinance,funded,2022-06-27
+123972,23,1769,3,100000,0.0764,639,ON,London,Owner Occupied,First Mortgage,Purchase,approved,2022-08-19
+123973,14,2474,4,865000,0.0684,568,BC,Mission,Owner Occupied,Second Mortgage,refinance,cancelled,2022-04-10
+123974,19,2673,6,450000,0.0664,848,ON,Ottawa,Rental ,HELOC,refinance,approved,2022-03-30
+123975,13,1006,6,458000,0.0689,872,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,cancelled,2022-11-16
+123976,13,1839,4,1500500,0.0699,650,BC,Mission,Owner Occupied,Second Mortgage,refinance,funded,2022-09-05
+123977,15,1261,3,123000,0.0674,568,BC,Mission,Rental ,HELOC,refinance,declined,2022-09-01
+123978,12,2226,5,129500,0.0799,645,ON,Ottawa,Owner Occupied,HELOC,refinance,approved,2022-08-16
+123979,16,2179,4,100000,0.0724,872,BC,Campbell River,Owner Occupied,Second Mortgage,refinance,approved,2022-01-24
+123980,13,1670,3,120000,0.0664,578,ON,Ottawa,Rental ,First Mortgage,Purchase,funded,2022-09-18
+123981,21,1185,3,293500,0.0739,584,ON,Ottawa,Owner Occupied,First Mortgage,Purchase,declined,2022-08-22
+123982,20,2511,4,112500,0.0794,848,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-07-07
+123983,20,2975,5,219000,0.0689,785,ON,Ottawa,Rental ,HELOC,refinance,declined,2022-06-24
+123984,23,1006,1,962000,0.0784,689,ON,Ottawa,Owner Occupied,First Mortgage,refinance,funded,2022-02-14
+123985,22,1979,3,123000,0.0694,658,AB,Calgary,Owner Occupied,First Mortgage,refinance,approved,2022-01-31
+123986,22,2373,3,765000,0.0739,582,AB,Medicine Hat,Rental ,First Mortgage,refinance,funded,2022-06-08
+123987,18,1270,6,420000,0.0784,578,PEI,Charlottetown,Owner Occupied,HELOC,refinance,funded,2022-06-16
+123988,21,2286,6,1000000,0.0664,639,AB,Medicine Hat,Owner Occupied,First Mortgage,refinance,approved,2022-07-21
+123989,12,1194,1,230000,0.0784,874,BC,Campbell River,Rental ,First Mortgage,refinance,approved,2022-08-23
+123990,13,2382,1,605000,0.0794,788,ON,London,Owner Occupied,Second Mortgage,refinance,declined,2022-09-04
+123991,16,2764,2,730500,0.0764,489,BC,Campbell River,Owner Occupied,First Mortgage,Purchase,cancelled,2022-05-11
+123992,15,1846,6,325100,0.0679,647,BC,Campbell River,Rental ,HELOC,refinance,funded,2022-05-24
+123993,14,1834,4,888000,0.0714,984,ON,Guelph,Owner Occupied,Second Mortgage,refinance,cancelled,2022-06-23
+123994,21,2677,6,604600,0.0789,567,AB,Red Deer,Owner Occupied,First Mortgage,Purchase,cancelled,2022-05-25
+123995,17,1413,1,300000,0.0744,848,BC,Vernon,Rental ,HELOC,refinance,funded,2022-08-08
+123996,16,1562,3,865000,0.0764,710,AB,Red Deer,Owner Occupied,Second Mortgage,refinance,approved,2022-01-09
+123997,17,1226,5,987000,0.0809,598,ON,Waterloo,Owner Occupied,First Mortgage,Purchase,approved,2022-11-08
+123998,24,2799,1,395600,0.0724,582,ON,Brampton,Rental ,Second Mortgage,refinance,declined,2022-06-23
+123999,19,1011,4,100000,0.0769,489,AB,Red Deer,Owner Occupied,Second Mortgage,refinance,funded,2022-06-15
+124000,16,1408,1,1000000,0.0794,800,AB,Red Deer,Owner Occupied,HELOC,refinance,funded,2022-03-21
+124001,17,2030,6,962000,0.0734,778,AB,Edmonton,Rental ,First Mortgage,Purchase,funded,2022-12-13
+124002,12,2749,4,350000,0.0809,568,BC,Vernon,Owner Occupied,Second Mortgage,refinance,funded,2022-06-03
+124003,18,1307,3,198000,0.0799,548,AB,Calgary,Owner Occupied,Second Mortgage,refinance,declined,2022-11-01
+124004,19,2163,2,239500,0.0814,500,BC,Vernon,Rental ,HELOC,refinance,approved,2022-04-07
+124005,14,2949,2,987000,0.0774,798,BC,Lloydminster,Owner Occupied,HELOC,refinance,approved,2022-06-12
+124006,12,2117,2,450000,0.0794,487,AB,Okotoks,Owner Occupied,Second Mortgage,refinance,approved,2022-07-13
+124007,13,1404,6,999000,0.0714,645,ON,Etobicoke,Rental ,HELOC,refinance,declined,2022-09-08
+124008,21,2083,5,670500,0.0684,487,ON,Etobicoke,Owner Occupied,First Mortgage,refinance,funded,2022-08-30
+124009,21,1024,1,198000,0.0734,874,ON,North York,Owner Occupied,First Mortgage,refinance,approved,2022-05-23
+124010,15,1083,6,450000,0.0674,700,BC,Lloydminster,Rental,HELOC,refinance,declined,2022-06-03
+124011,23,2402,2,395000,0.0734,548,ON,North York,Rental,Second Mortgage,refinance,funded,2022-10-16
+124012,17,1186,1,456000,0.0664,656,AB,Cochrane,Rental,HELOC,refinance,declined,2022-09-29
+124013,23,1900,3,790000,0.0789,548,BC,Courtenay,Rental,HELOC,refinance,funded,2022-04-25
+124014,23,1458,4,654000,0.0664,788,ON,Barrie,Rental,HELOC,refinance,approved,2022-05-16
+124015,13,1302,3,1000000,0.0714,858,BC,Cranbrook,Rental,First Mortgage,refinance,funded,2022-05-19
+124016,24,2165,2,560500,0.0664,700,MB,Winnipeg,Rental,First Mortgage,Purchase,approved,2022-07-04
+124017,18,2096,3,350000,0.0794,578,AB,Canmore,Rental,Second Mortgage,refinance,funded,2022-11-30
+124018,19,2195,4,194500,0.0734,658,ON,Niagara Falls,Rental,HELOC,refinance,funded,2022-08-11
+124019,16,2423,3,890000,0.0684,645,AB,Canmore,Rental,First Mortgage,Purchase,funded,2022-08-22
+124020,17,1789,5,608500,0.0664,639,NL,St. Johns,Rental,Second Mortgage,refinance,funded,2022-07-20
+124021,15,2889,1,239500,0.0664,700,AB,Canmore,Rental,HELOC,refinance,approved,2022-07-21
+124022,12,1930,4,111000,0.0664,600,BC,Chilliwack,Rental,First Mortgage,Purchase,funded,2022-12-19
+124023,14,1326,4,654000,0.0679,582,ON,Orillia,Rental,Second Mortgage,refinance,approved,2022-07-07
+124024,20,2642,2,305600,0.0669,568,BC,Coquitlam,Rental,First Mortgage,refinance,funded,2022-08-10
+124025,22,1271,3,111000,0.0669,451,BC,Coquitlam,Rental,First Mortgage,Purchase,declined,2022-06-20
+124026,20,1505,2,876000,0.0664,689,AB,Airdrie,Rental,HELOC,refinance,funded,2022-06-01
+124027,13,1729,4,1000000,0.0774,711,ON,Windsor,Rental,First Mortgage,Purchase,approved,2022-01-27
+124028,19,2935,5,120000,0.0789,458,ON,Windsor,Rental,HELOC,refinance,funded,2022-07-11
+124029,24,2610,5,543000,0.0664,567,SK,Regina,Rental,HELOC,refinance,approved,2022-07-19
+124030,15,1097,6,450000,0.0699,870,ON,Windsor,Rental,First Mortgage,Purchase,funded,2022-09-29
+124031,23,2861,4,1200000,0.0774,858,AB,Airdrie,Rental,Second Mortgage,refinance,funded,2022-11-16
+124032,17,2176,6,140000,0.0714,687,ON,Toronto,Rental,First Mortgage,refinance,funded,2022-07-21
+124033,12,2005,4,204900,0.0794,598,BC,Surrey,Rental,Second Mortgage,refinance,declined,2022-09-21
+124034,20,1295,5,987000,0.0709,487,NS,Halifax,Rental,HELOC,refinance,declined,2022-09-05
+124035,19,2004,3,395700,0.0669,542,ON,Toronto,Rental,First Mortgage,Purchase,funded,2022-06-24
+124036,14,1637,1,678000,0.0729,800,BC,Victoria,Rental,First Mortgage,Purchase,funded,2022-02-20
+124037,18,1711,1,450510,0.0734,639,ON,Oakville,Rental,HELOC,refinance,funded,2022-10-23
+124038,15,1892,5,125500,0.0734,800,BC,Victoria,Rental,HELOC,refinance,approved,2022-11-27
+124039,17,1631,5,908000,0.0744,685,ON,Hamilton,Rental,First Mortgage,Purchase,funded,2022-11-23
+124040,13,1349,4,730500,0.0704,984,ON,Brantford,Rental,HELOC,refinance,funded,2022-05-17
+124041,13,2953,4,962000,0.0789,548,AB,Airdrie,Rental,HELOC,refinance,funded,2022-08-01
+124042,24,1204,2,605000,0.0714,658,ON,Brantford,Rental,First Mortgage,Purchase,funded,2022-01-17
+124043,14,2900,4,325100,0.0684,548,BC,Victoria,Owner Occupied,Second Mortgage,refinance,approved,2022-07-25
+124044,14,2134,5,125500,0.0764,489,SK,Regina,Owner Occupied,First Mortgage,refinance,funded,2022-06-16
+124045,21,2398,1,350000,0.0664,897,ON,Stoney Creek,Rental ,HELOC,refinance,funded,2022-06-09
+124046,16,1960,5,450510,0.0814,505,ON,Stoney Creek,Owner Occupied,First Mortgage,refinance,cancelled,2022-06-20
+124047,15,1474,2,1200000,0.0794,482,ON,Stoney Creek,Owner Occupied,First Mortgage,Purchase,declined,2022-06-08
+124048,15,2823,1,888000,0.0774,586,BC,Victoria,Rental ,First Mortgage,refinance,funded,2022-06-12
+124049,15,1426,3,395500,0.0714,639,ON,Whitby,Owner Occupied,First Mortgage,refinance,funded,2022-06-09
+124050,18,1068,6,708300,0.0689,858,BC,Victoria,Owner Occupied,First Mortgage,Purchase,funded,2022-01-30
+124051,13,1008,5,888000,0.0754,874,BC,Vancouver,Rental ,First Mortgage,refinance,funded,2022-06-13
+124052,16,1540,3,444000,0.0784,858,ON,Whitby,Owner Occupied,HELOC,refinance,declined,2022-10-13
+124053,19,2072,1,1230000,0.0799,549,AB,Airdrie,Owner Occupied,HELOC,refinance,declined,2022-11-02
+124054,20,1962,3,460000,0.0744,548,AB,Airdrie,Rental ,HELOC,refinance,approved,2022-08-24
+124055,13,1129,4,205000,0.0674,848,MB,Winnipeg,Owner Occupied,First Mortgage,refinance,cancelled,2022-01-30
+124056,17,1139,1,444000,0.0754,574,BC,Vancouver,Owner Occupied,HELOC,refinance,funded,2022-04-11
+124057,23,2863,3,780000,0.0794,578,AB,Chestermere,Rental ,HELOC,refinance,declined,2022-10-20
+124058,21,2364,6,456000,0.0774,568,AB,Chestermere,Owner Occupied,Second Mortgage,refinance,approved,2022-10-27
+124059,12,2934,4,112500,0.0664,874,ON,Scarborough,Owner Occupied,Second Mortgage,refinance,funded,2022-05-26
+124060,12,2842,1,321000,0.0694,874,ON,Markham,Rental,Second Mortgage,refinance,cancelled,2022-08-18
+124061,23,2192,1,1000000,0.0689,487,ON,Markham,Rental,HELOC,refinance,funded,2022-06-01
+124062,15,1566,3,789000,0.0794,542,ON,Oakville,Rental,HELOC,refinance,funded,2022-11-29
+124063,13,1967,6,204900,0.0664,785,AB,Chestermere,Rental,HELOC,refinance,approved,2022-12-22
+124064,14,1642,9,193500,0.0764,479,AB,St. Albert,Rental,HELOC,refinance,funded,2022-11-08
+124065,23,1173,6,450510,0.0794,598,AB,Edmonton,Rental,HELOC,refinance,funded,2022-05-03
+124066,15,1199,9,890000,0.0779,639,NL,St. Johns,Rental,First Mortgage,refinance,cancelled,2022-05-23
+124067,16,2938,6,450000,0.0744,984,BC,Surrey,Rental,First Mortgage,refinance,funded,2022-03-13
+124068,15,1706,4,1000000,0.0689,639,ON,Brampton,Rental,First Mortgage,Purchase,approved,2022-07-17
+124069,18,1013,6,125000,0.0694,487,BC,Chilliwack,Rental,Second Mortgage,refinance,approved,2022-06-01
+124070,19,1924,7,346000,0.0654,639,NL,St. Johns,Rental,HELOC,refinance,approved,2022-12-26
+124071,23,2673,1,670500,0.0754,451,ON,Orillia,Rental,First Mortgage,Purchase,funded,2022-12-05
+124072,21,2755,7,456500,0.0784,785,ON,Orillia,Rental,HELOC,refinance,approved,2022-12-28
+124073,24,2700,8,346000,0.0699,639,BC,Vancouver,Owner Occupied,First Mortgage,Purchase,funded,2022-04-14
+124074,20,2411,6,395500,0.0724,748,AB,Cochrane,Owner Occupied,First Mortgage,Purchase,funded,2022-12-12
+124075,20,1697,8,120100,0.0664,549,AB,Cochrane,Rental ,Second Mortgage,refinance,cancelled,2022-09-20
+124076,12,1968,8,129500,0.0799,658,ON,Hamilton,Owner Occupied,Second Mortgage,refinance,funded,2022-06-24
+124077,15,2583,1,605000,0.0679,639,ON,Kitchener,Owner Occupied,First Mortgage,Purchase,funded,2022-08-18
+124078,21,1461,1,789000,0.0699,487,AB,Chestermere,Rental ,HELOC,refinance,funded,2022-01-23
+124079,21,2983,8,406600,0.0779,785,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-05-30
+124080,15,2622,5,238500,0.0794,711,AB,Fort Saskatchewan,Owner Occupied,First Mortgage,Purchase,declined,2022-05-04
+124081,23,2536,6,777000,0.0714,848,ON,Toronto,Rental ,First Mortgage,Purchase,funded,2022-12-14
+124082,12,2856,4,128300,0.0734,500,ON,Brampton,Owner Occupied,Second Mortgage,refinance,declined,2022-07-05
+124083,20,1234,4,345000,0.0684,510,BC,Victoria,Owner Occupied,Second Mortgage,refinance,declined,2022-09-01
+124084,23,2680,6,432000,0.0784,711,ON,Milton,Rental ,HELOC,refinance,approved,2022-07-07
+124085,12,2841,4,432000,0.0809,451,ON,Georgetown,Owner Occupied,First Mortgage,refinance,cancelled,2022-07-28
+124086,17,1697,7,908000,0.0669,748,AB,Fort Saskatchewan,Owner Occupied,Second Mortgage,refinance,declined,2022-09-13
+124087,19,1177,1,193500,0.0724,685,BC,Saanich,Rental ,First Mortgage,refinance,approved,2022-06-13
+124088,20,2854,1,450510,0.0709,659,SK,Saskatoon,Owner Occupied,First Mortgage,refinance,approved,2022-02-28
+124089,22,1418,3,693500,0.0744,800,ON,Sudbury,Owner Occupied,First Mortgage,refinance,funded,2022-08-02
+124090,19,1014,4,239500,0.0664,870,ON,Barrie,Rental,First Mortgage,Purchase,declined,2022-12-05
+124091,15,1395,9,780000,0.0714,8748,ON,Niagara Falls,Rental,First Mortgage,Purchase,cancelled,2022-08-29
+124092,23,2242,6,555000,0.0714,500,PEI,Charlottetown,Rental,HELOC,refinance,funded,2022-06-29
+124093,23,1013,6,129500,0.0684,800,BC,Langford,Rental,First Mortgage,refinance,funded,2022-05-19
+124094,19,1531,6,876000,0.0664,685,AB,Fort Saskatchewan,Rental,First Mortgage,Purchase,declined,2022-03-30
+124095,16,2177,5,192000,0.0664,482,AB,Sherwood Park,Rental,First Mortgage,refinance,approved,2022-11-27
+124096,21,2603,9,432000,0.0664,648,ON,Hamilton,Rental,HELOC,refinance,approved,2022-01-19
+124097,12,2092,6,1300500,0.0674,648,BC,Langley,Rental,First Mortgage,refinance,funded,2022-07-27
+124098,19,1822,3,294000,0.0724,979,AB,Edmonton,Rental,First Mortgage,refinance,declined,2022-08-12
+124099,14,1741,5,432000,0.0789,865,ON,London,Rental,First Mortgage,refinance,funded,2022-06-26
+124100,18,1116,8,294000,0.0689,785,ON,Ottawa,Rental,HELOC,refinance,approved,2022-01-06
+124101,18,1083,9,432000,0.0764,800,AB,Medicine Hat,Rental,First Mortgage,refinance,funded,2022-09-08
+124102,15,1766,6,795000,0.0774,870,AB,Red Deer,Rental,HELOC,refinance,declined,2022-10-18
+124103,21,2539,9,19100,0.0724,549,BC,Langley,Owner Occupied,HELOC,refinance,funded,2022-08-02
+124104,15,2117,6,294000,0.0714,650,ON,Guelph,Owner Occupied,HELOC,refinance,cancelled,2022-01-03
+124105,21,2860,1,450000,0.0664,584,ON,Toronto,Rental ,HELOC,refinance,funded,2022-07-10
+124106,18,1316,1,610000,0.0764,659,ON,Toronto,Owner Occupied,HELOC,refinance,funded,2022-12-28
+124107,20,1262,7,300000,0.0774,586,ON,Toronto,Owner Occupied,HELOC,refinance,declined,2022-07-12
+124108,12,2462,6,100000,0.0664,857,AB,Canmore,Rental ,First Mortgage,refinance,approved,2022-09-01
+124109,21,1675,9,567000,0.0664,542,AB,Canmore,Owner Occupied,Second Mortgage,refinance,funded,2022-07-26
+124110,19,2247,3,962000,0.0734,867,AB,Blackfalds,Owner Occupied,HELOC,refinance,approved,2022-12-27
+124111,19,1731,5,300000,0.0734,979,ON,Etobicoke,Rental ,First Mortgage,refinance,cancelled,2022-07-10
+124112,21,1073,1,794500,0.0674,500,ON,Oakville,Owner Occupied,First Mortgage,Purchase,cancelled,2022-12-22
+124113,19,2759,8,865000,0.0744,568,ON,Oakville,Owner Occupied,Second Mortgage,refinance,cancelled,2022-08-18
+124114,16,2289,7,325100,0.0764,872,AB,Blackfalds,Rental ,Second Mortgage,refinance,funded,2022-12-19
+124115,20,2040,5,569500,0.0794,639,AB,Blackfalds,Owner Occupied,Second Mortgage,refinance,funded,2022-12-04
+124116,22,1961,7,876000,0.0684,658,ON,Mississauga,Owner Occupied,HELOC,refinance,funded,2022-05-30
+124117,20,2672,1,205000,0.0724,487,AB,Calgary,Rental ,First Mortgage,Purchase,funded,2022-08-16
+124118,17,1290,8,790000,0.0754,858,BC,Langley,Owner Occupied,First Mortgage,Purchase,cancelled,2022-09-23
+124119,20,2974,8,112500,0.0704,848,AB,Calgary,Owner Occupied,Second Mortgage,refinance,approved,2022-07-14
+124120,23,1174,1,1120500,0.0814,650,BC,Abbotsford,Rental,Second Mortgage,refinance,cancelled,2022-01-17
+124121,19,2401,9,230950,0.0749,568,BC,Chilliwack,Rental,First Mortgage,Purchase,funded,2022-01-10
+124122,17,2658,5,350000,0.0694,639,ON,Mississauga,Rental,HELOC,refinance,approved,2022-07-05
+124123,17,1191,9,670500,0.0784,745,ON,Mississauga,Rental,Second Mortgage,refinance,funded,2022-08-19
+124124,21,1637,1,220000,0.0684,867,BC,Vancouver,Rental,First Mortgage,refinance,cancelled,2022-02-07
+124125,19,1752,8,666000,0.0799,800,AB,Calgary,Rental,First Mortgage,Purchase,approved,2022-10-27
+124126,12,2900,7,230950,0.0754,678,ON,Cornwall,Rental,First Mortgage,Purchase,approved,2022-12-29
+124127,13,2098,7,333000,0.0664,645,BC,Victoria,Rental,HELOC,refinance,approved,2022-07-01
+124128,23,2065,1,708300,0.0719,687,AB,Edmonton,Rental,HELOC,refinance,funded,2022-05-26
+124129,13,2979,4,708300,0.0714,458,AB,Edmonton,Rental,HELOC,refinance,approved,2022-09-18
+124130,23,2811,3,345000,0.0764,647,AB,Calgary,Rental,Second Mortgage,refinance,approved,2022-05-16
+124131,23,2145,1,985500,0.0784,688,AB,Edmonton,Rental,HELOC,refinance,cancelled,2022-09-14
+124132,12,2190,9,569500,0.0689,688,ON,Etobicoke,Rental,HELOC,refinance,funded,2022-02-13
+124133,13,2736,3,192000,0.0769,648,AB,Calgary,Owner Occupied,First Mortgage,refinance,approved,2022-05-29
+124134,16,1635,5,123000,0.0664,639,ON,Newmarket,Owner Occupied,First Mortgage,refinance,funded,2022-09-08
+124135,21,2586,8,693500,0.0654,598,AB,Edmonton,Rental ,First Mortgage,refinance,approved,2022-05-11
+124136,12,1284,5,666000,0.0664,548,ON,Ajax,Owner Occupied,First Mortgage,Purchase,declined,2022-08-22
+124137,12,2972,6,605000,0.0664,867,MB,Winnipeg,Owner Occupied,HELOC,refinance,declined,2022-12-18
+124138,19,2893,4,790000,0.0794,489,BC,Richmond,Rental ,Second Mortgage,refinance,approved,2022-07-07
+124139,21,1918,9,140000,0.0719,549,BC,Richmond,Owner Occupied,HELOC,refinance,declined,2022-10-09
+124140,19,1609,6,198000,0.0734,785,ON,Newmarket,Owner Occupied,HELOC,refinance,funded,2022-10-10
+124141,23,2132,6,999000,0.0704,658,AB,Edmonton,Rental ,Second Mortgage,refinance,funded,2022-07-03
+124142,16,2176,9,605000,0.0809,979,ON,Etobicoke,Owner Occupied,First Mortgage,Purchase,declined,2022-05-13
+124143,23,2999,1,350000,0.0744,785,BC,Surrey,Owner Occupied,Second Mortgage,refinance,cancelled,2022-11-01
+124144,23,1299,5,100000,0.0664,639,ON,Cornwall,Rental ,First Mortgage,Purchase,funded,2022-01-17
+124145,19,1676,4,450000,0.0739,874,AB,Edmonton,Owner Occupied,HELOC,refinance,approved,2022-08-03
+124146,23,1914,6,1000000,0.0794,658,ON,Burlington,Owner Occupied,Second Mortgage,refinance,cancelled,2022-06-28
+124147,15,1743,5,450000,0.0714,645,AB,Calgary,Rental ,First Mortgage,refinance,approved,2022-11-15
+124148,17,1072,1,543000,0.0664,578,ON,Burlington,Owner Occupied,HELOC,refinance,funded,2022-10-18
+124149,13,1198,6,219000,0.0664,598,AB,Calgary,Owner Occupied,Second Mortgage,refinance,declined,2022-03-03
+124150,16,1166,7,515000,0.0759,650,ON,Burlington,Rental,First Mortgage,refinance,funded,2022-05-22
+124151,20,2587,1,345000,0.0714,598,ON,Burlington,Rental,First Mortgage,refinance,declined,2022-04-24
+124152,19,1133,3,908000,0.0814,639,BC,Richmond,Rental,HELOC,refinance,declined,2022-02-14
+124153,17,2636,3,760000,0.0764,785,ON,Burlington,Rental,Second Mortgage,refinance,declined,2022-09-19
+124154,13,2288,8,340950,0.0669,798,AB,Sherwood Park,Rental,Second Mortgage,refinance,approved,2022-06-29
+124155,16,1485,5,1125500,0.0809,874,NS,Halifax,Rental,HELOC,refinance,approved,2022-03-02
+124156,31,1768,9,1200000,0.0794,745,BC,Victoria,Rental,Second Mortgage,refinance,approved,2022-07-19
+124157,33,1547,5,450000,0.0654,574,BC,Victoria,Rental,Second Mortgage,refinance,declined,2022-02-22
+124158,35,2347,3,908000,0.0714,648,BC,Vancouver,Rental,Second Mortgage,refinance,funded,2022-11-17
+124159,22,2835,7,230950,0.0764,547,BC,Vancouver,Rental,First Mortgage,Purchase,funded,2022-02-10
+124160,21,2319,6,239500,0.0734,858,BC,Surrey,Rental,Second Mortgage,refinance,cancelled,2022-09-21
+124161,12,1671,4,239000,0.0664,645,AB,Medicine Hat,Rental,Second Mortgage,refinance,funded,2022-06-26
+124162,36,1147,5,654000,0.0664,578,BC,Langley,Rental,HELOC,refinance,cancelled,2022-05-15
+124163,13,1670,6,460000,0.0664,578,BC,Langford,Owner Occupied,First Mortgage,refinance,declined,2022-03-17
+124164,35,2690,8,294000,0.0754,479,ON,Burlington,Owner Occupied,HELOC,refinance,funded,2022-09-02
+124165,29,2440,7,999000,0.0814,598,AB,Medicine Hat,Rental ,HELOC,refinance,funded,2022-03-29
+124166,25,2978,9,234000,0.0794,848,ON,Burlington,Owner Occupied,First Mortgage,refinance,approved,2022-08-11
+124167,23,1681,3,543000,0.0789,542,BC,Langley,Owner Occupied,Second Mortgage,refinance,declined,2022-06-02
+124168,15,1180,8,125000,0.0794,598,BC,Langley,Rental ,First Mortgage,Purchase,approved,2022-04-04
+124169,16,1671,6,1200000,0.0794,568,BC,Coquitlam,Owner Occupied,First Mortgage,Purchase,declined,2022-07-25
+124170,23,2679,9,780000,0.0664,639,AB,Red Deer,Owner Occupied,HELOC,refinance,funded,2022-05-17
+124171,15,1525,1,560500,0.0664,656,BC,Maple Ridge,Rental ,First Mortgage,Purchase,approved,2022-09-15
+124172,16,1419,7,450000,0.0774,711,ON,Burlington,Owner Occupied,HELOC,refinance,declined,2022-09-22
+124173,15,1993,1,765000,0.0794,658,AB,Red Deer,Owner Occupied,Second Mortgage,refinance,funded,2022-11-17
+124174,20,2151,5,678000,0.0664,547,ON,Burlington,Rental ,Second Mortgage,refinance,approved,2022-06-02
+124175,20,1637,3,120000,0.0734,872,ON,Burlington,Owner Occupied,Second Mortgage,refinance,funded,2022-06-30
+124176,13,1631,1,654000,0.0759,567,AB,Cochrane,Owner Occupied,First Mortgage,Purchase,funded,2022-02-03
+124177,16,1421,5,111000,0.0794,870,ON,Burlington,Rental ,HELOC,refinance,approved,2022-09-20
+124178,23,2803,9,300000,0.0799,650,ON,Burlington,Owner Occupied,HELOC,refinance,declined,2022-08-04
+124179,14,1395,6,543000,0.0669,865,AB,Airdrie,Owner Occupied,HELOC,refinance,declined,2022-07-26
+124180,13,1014,3,1500500,0.0764,778,ON,Burlington,Rental,HELOC,refinance,funded,2022-08-02
+124181,25,1316,8,100000,0.0769,689,AB,Okotoks,Rental,First Mortgage,refinance,declined,2022-04-28
+124182,27,2228,8,450000,0.0764,656,ON,Burlington,Rental,First Mortgage,refinance,cancelled,2022-02-14
+124183,35,2542,7,112500,0.0814,984,ON,Burlington,Rental,Second Mortgage,refinance,approved,2022-08-24
+124184,23,2303,5,515000,0.0754,645,AB,Airdrie,Rental,First Mortgage,refinance,funded,2022-03-02
+124185,28,1659,1,100000,0.0794,778,ON,Etobicoke,Rental,HELOC,refinance,funded,2022-06-14
+124186,26,2953,5,777000,0.0689,858,BC,Maple Ridge,Rental,Second Mortgage,refinance,approved,2022-09-07
+124187,16,2488,6,395500,0.0744,874,BC,Maple Ridge,Rental,HELOC,refinance,funded,2022-08-19
+124188,22,1250,1,876000,0.0754,545,ON,Mississauga,Rental,First Mortgage,Purchase,declined,2022-08-12
+124189,16,2497,7,670500,0.0704,800,AB,Edmonton,Rental,HELOC,refinance,funded,2022-01-30
+124190,17,2041,9,1230000,0.0734,874,ON,Milton,Rental,First Mortgage,Purchase,declined,2022-03-15
+124191,26,1015,5,239500,0.0744,984,BC,Maple Ridge,Rental,First Mortgage,Purchase,funded,2022-06-24
+124192,24,2080,1,300000,0.0674,687,BC,Maple Ridge,Rental,HELOC,refinance,approved,2022-01-03
+124193,31,1773,5,395500,0.0664,656,ON,Markham,Owner Occupied,First Mortgage,Purchase,funded,2022-06-07
+124194,24,1837,4,888000,0.0769,639,BC,Vancouver,Owner Occupied,Second Mortgage,refinance,funded,2022-11-07
+124195,14,1457,1,456500,0.0784,647,AB,Edmonton,Rental ,HELOC,refinance,funded,2022-06-20
+124196,19,1413,9,1200000,0.0664,874,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-11-10
+124197,32,1776,9,658000,0.0774,639,BC,Vancouver,Owner Occupied,Second Mortgage,refinance,funded,2022-06-29
+124198,14,1449,9,395500,0.0664,639,AB,Edmonton,Rental ,First Mortgage,refinance,declined,2022-12-06
+124199,12,2417,1,300000,0.0679,568,ON,Markham,Owner Occupied,HELOC,refinance,declined,2022-08-10
+124200,13,2056,1,140000,0.0684,800,PEI,Charlottetown,Owner Occupied,First Mortgage,refinance,approved,2022-09-16
+124201,19,2755,1,333000,0.0774,867,AB,Calgary,Rental ,Second Mortgage,refinance,funded,2022-07-14
+124202,23,1457,7,450000,0.0664,487,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-07-14
+124203,19,2186,7,760000,0.0714,659,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,funded,2022-10-20
+124204,24,1192,7,658000,0.0704,639,ON,Toronto,Rental ,First Mortgage,refinance,approved,2022-10-31
+124205,27,2691,1,610000,0.0669,979,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,approved,2022-07-13
+124206,30,1134,7,350000,0.0789,874,BC,Victoria,Owner Occupied,Second Mortgage,refinance,funded,2022-07-03
+124207,17,1938,9,220000,0.0674,639,ON,Ajax,Rental ,First Mortgage,refinance,cancelled,2022-06-02
+124208,29,2459,4,794500,0.0659,689,ON,Ajax,Owner Occupied,Second Mortgage,refinance,funded,2022-06-02
+124209,14,2755,6,450000,0.0664,858,ON,Ajax,Owner Occupied,Second Mortgage,refinance,cancelled,2022-04-20
+124210,26,1092,5,234000,0.0724,865,ON,Scarborough,Rental,First Mortgage,refinance,approved,2022-02-08
+124211,23,2980,5,569500,0.0809,568,ON,Scarborough,Rental,First Mortgage,refinance,funded,2022-04-21
+124212,18,1264,9,220000,0.0664,487,AB,Edmonton,Rental,HELOC,refinance,funded,2022-04-28
+124213,33,2145,6,345000,0.0724,639,ON,Scarborough,Rental,Second Mortgage,refinance,approved,2022-06-01
+124214,35,1348,6,234000,0.0714,673,AB,Edmonton,Rental,First Mortgage,Purchase,funded,2022-05-12
+124215,21,1966,5,876000,0.0659,482,AB,Calgary,Rental,Second Mortgage,refinance,funded,2022-03-02
+124216,13,1176,3,496000,0.0744,600,AB,Calgary,Rental,First Mortgage,Purchase,funded,2022-06-02
+124217,20,1339,8,234000,0.0784,586,BC,Victoria,Rental,HELOC,refinance,approved,2022-06-19
+124218,28,2712,1,444000,0.0809,785,BC,Vancouver,Rental,Second Mortgage,refinance,funded,2022-02-14
+124219,36,2651,6,456000,0.0699,545,ON,Scarborough,Rental,First Mortgage,Purchase,funded,2022-09-07
+124220,15,1645,7,555000,0.0714,639,ON,Scarborough,Rental,HELOC,refinance,funded,2022-12-14
+124221,15,2812,1,395500,0.0764,785,ON,Toronto,Rental,Second Mortgage,refinance,approved,2022-06-30
+124222,32,2814,6,569500,0.0684,548,BC,Cranbrook,Rental,Second Mortgage,refinance,approved,2022-01-02
+124223,33,2226,9,333000,0.0734,482,BC,Courtenay,Owner Occupied,Second Mortgage,refinance,approved,2022-06-21
+124224,18,1031,1,219000,0.0794,545,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,funded,2022-01-10
+124225,28,2413,6,205000,0.0809,785,ON,Niagara Falls,Rental ,HELOC,refinance,funded,2022-12-20
+124226,24,1166,9,238500,0.0794,584,BC,Port Alberni,Owner Occupied,HELOC,refinance,funded,2022-02-09
+124227,17,1538,4,456500,0.0724,798,ON,Ottawa,Owner Occupied,First Mortgage,refinance,approved,2022-04-28
+124228,18,2215,9,1300500,0.0754,857,BC,Port Alberni,Rental ,HELOC,refinance,funded,2022-08-09
+124229,18,2675,4,765000,0.0724,788,AB,Edmonton,Owner Occupied,HELOC,refinance,funded,2022-06-23
+124230,17,1133,6,604600,0.0664,568,BC,Lloydminster,Owner Occupied,HELOC,refinance,approved,2022-08-18
+124231,33,1096,5,125000,0.0664,487,ON,London,Rental ,HELOC,refinance,declined,2022-10-12
+124232,28,2702,1,205000,0.0769,510,ON,London,Owner Occupied,Second Mortgage,refinance,approved,2022-10-17
+124233,33,1613,1,985500,0.0744,673,ON,Kitchener,Owner Occupied,First Mortgage,refinance,approved,2022-09-06
+124234,15,2948,4,395600,0.0724,800,AB,Red Deer,Rental ,Second Mortgage,refinance,funded,2022-10-17
+124235,15,2540,6,123000,0.0699,600,BC,Port Alberni,Owner Occupied,First Mortgage,Purchase,approved,2022-02-07
+124236,16,1041,4,239000,0.0664,700,AB,Red Deer,Owner Occupied,HELOC,refinance,approved,2022-10-09
+124237,23,1030,1,684500,0.0744,645,BC,Abbotsford,Rental ,Second Mortgage,refinance,cancelled,2022-09-01
+124238,28,2557,4,198000,0.0794,659,ON,Pickering,Owner Occupied,HELOC,refinance,funded,2022-08-18
+124239,32,2909,3,450000,0.0749,548,AB,Red Deer,Owner Occupied,First Mortgage,Purchase,funded,2022-08-05
+124240,22,2969,7,666000,0.0704,639,ON,Pickering,Rental,First Mortgage,refinance,cancelled,2022-06-20
+124241,34,1215,4,100000,0.0794,547,AB,Medicine Hat,Rental,First Mortgage,refinance,approved,2022-04-20
+124242,26,2525,7,1300500,0.0809,542,ON,Pickering,Rental,First Mortgage,refinance,declined,2022-12-13
+124243,13,1502,4,220000,0.0749,848,ON,Pickering,Rental,HELOC,refinance,approved,2022-05-04
+124244,15,1219,8,795000,0.0684,798,AB,Medicine Hat,Rental,HELOC,refinance,declined,2022-06-06
+124245,19,1358,6,100000,0.0664,505,AB,Medicine Hat,Rental,HELOC,refinance,funded,2022-04-13
+124246,16,2501,6,567000,0.0764,639,BC,Surrey,Rental,First Mortgage,refinance,approved,2022-12-26
+124247,23,1252,5,790000,0.0709,710,ON,Burlington,Rental,Second Mortgage,refinance,declined,2022-10-24
+124248,29,2464,8,560500,0.0664,798,AB,Canmore,Rental,First Mortgage,Purchase,approved,2022-12-01
+124249,13,1578,9,230000,0.0734,458,ON,Georgetown,Rental,First Mortgage,refinance,funded,2022-06-20
+124250,17,2773,7,1300500,0.0679,874,AB,Canmore,Rental,HELOC,refinance,cancelled,2022-07-26
+124251,27,2793,6,1320500,0.0759,800,BC,Surrey,Rental,HELOC,refinance,funded,2022-01-25
+124252,35,1228,1,345000,0.0734,567,ON,Windsor,Rental,First Mortgage,Purchase,funded,2022-02-23
+124253,17,1168,4,765000,0.0794,658,ON,Toronto,Owner Occupied,First Mortgage,refinance,cancelled,2022-05-10
+124254,19,1330,4,432000,0.0664,785,BC,White Rock,Owner Occupied,Second Mortgage,refinance,funded,2022-06-01
+124255,12,2348,6,129500,0.0809,578,ON,Mississauga,Rental ,Second Mortgage,refinance,funded,2022-10-13
+124256,27,1320,9,19100,0.0689,639,ON,Mississauga,Owner Occupied,HELOC,refinance,funded,2022-08-23
+124257,24,2045,7,450000,0.0714,858,ON,Mississauga,Owner Occupied,First Mortgage,refinance,approved,2022-09-20
+124258,19,2706,12,220000,0.0784,487,ON,Toronto,Rental ,HELOC,refinance,declined,2022-06-07
+124259,16,1035,17,760000,0.0814,458,AB,Fort Saskatchewan,Owner Occupied,Second Mortgage,refinance,declined,2022-09-07
+124260,29,2093,15,240950,0.0694,482,BC,White Rock,Owner Occupied,First Mortgage,Purchase,cancelled,2022-05-01
+124261,33,1100,20,1009500,0.0774,568,NS,Halifax,Rental ,First Mortgage,refinance,approved,2022-08-15
+124262,30,2225,4,567000,0.0724,785,ON,Brampton,Owner Occupied,HELOC,refinance,funded,2022-02-14
+124263,21,2807,15,325100,0.0704,648,BC,White Rock,Owner Occupied,First Mortgage,refinance,funded,2022-05-17
+124264,16,2193,10,604600,0.0669,748,ON,Whitby,Rental ,First Mortgage,refinance,approved,2022-11-06
+124265,27,1128,6,395500,0.0754,897,AB,Fort Saskatchewan,Owner Occupied,HELOC,refinance,cancelled,2022-06-09
+124266,32,2263,12,567000,0.0654,548,BC,Vancouver,Owner Occupied,Second Mortgage,refinance,declined,2022-06-06
+124267,29,1993,5,610000,0.0779,673,BC,Vancouver,Rental ,HELOC,refinance,approved,2022-03-10
+124268,19,2712,13,450000,0.0684,748,ON,Oakville,Owner Occupied,Second Mortgage,refinance,funded,2022-03-10
+124269,30,1767,5,333000,0.0684,639,BC,Victoria,Owner Occupied,First Mortgage,refinance,declined,2022-03-02
+124270,27,1167,16,129500,0.0694,639,ON,Milton,Rental,HELOC,refinance,funded,2022-08-16
+124271,35,2648,16,305600,0.0734,639,ON,Georgetown,Rental,First Mortgage,Purchase,funded,2022-11-22
+124272,12,1834,3,1125500,0.0724,678,AB,Fort Saskatchewan,Rental,First Mortgage,Purchase,funded,2022-09-26
+124273,31,2589,4,340950,0.0724,778,ON,Sudbury,Rental,First Mortgage,refinance,cancelled,2022-07-04
+124274,13,1501,4,605000,0.0664,689,ON,Wasaga Beach,Rental,First Mortgage,Purchase,declined,2022-10-18
+124275,16,1945,4,684500,0.0664,568,AB,Fort Saskatchewan,Rental,HELOC,refinance,cancelled,2022-06-13
+124276,22,2017,20,129500,0.0784,785,AB,Fort Saskatchewan,Rental,First Mortgage,refinance,approved,2022-09-14
+124277,27,1120,18,460000,0.0779,510,PEI,Charlottetown,Rental,First Mortgage,refinance,approved,2022-09-23
+124278,32,2981,7,708300,0.0704,639,AB,Fort Saskatchewan,Rental,Second Mortgage,refinance,funded,2022-07-05
+124279,16,1889,13,220000,0.0664,8748,BC,Vancouver,Rental,Second Mortgage,refinance,declined,2022-09-02
+124280,16,1702,19,1000000,0.0664,689,ON,Thunder Bay,Rental,First Mortgage,refinance,cancelled,2022-02-21
+124281,35,2044,6,604600,0.0809,586,BC,Vancouver,Rental,First Mortgage,refinance,approved,2022-05-24
+124282,18,1983,2,605000,0.0724,639,BC,Vancouver,Rental,First Mortgage,refinance,declined,2022-07-01
+124283,28,2560,1,458000,0.0674,788,ON,Thunder Bay,Owner Occupied,Second Mortgage,refinance,approved,2022-02-23
+124284,20,1040,1,125000,0.0719,710,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,funded,2022-08-19
+124285,25,1772,14,120100,0.0734,745,BC,Victoria,Rental ,First Mortgage,Purchase,funded,2022-10-06
+124286,29,1969,12,240950,0.0714,659,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-05-17
+124287,23,1526,18,450000,0.0754,865,ON,Thunder Bay,Owner Occupied,HELOC,refinance,cancelled,2022-12-05
+124288,12,1137,3,876000,0.0729,678,ON,Thunder Bay,Rental ,First Mortgage,Purchase,funded,2022-12-12
+124289,15,2184,6,780000,0.0769,800,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-08-18
+124290,17,1703,5,321000,0.0744,645,AB,Calgary,Owner Occupied,First Mortgage,Purchase,declined,2022-06-09
+124291,29,1712,4,1300500,0.0794,639,AB,Edmonton,Rental ,Second Mortgage,refinance,cancelled,2022-03-09
+124292,19,2979,14,129500,0.0664,549,BC,Saanich,Owner Occupied,HELOC,refinance,declined,2022-09-14
+124293,35,2564,7,120000,0.0664,574,AB,Medicine Hat,Owner Occupied,HELOC,refinance,declined,2022-04-06
+124294,21,2692,9,515000,0.0794,451,BC,Saanich,Rental ,First Mortgage,Purchase,approved,2022-05-08
+124295,12,2395,2,567000,0.0754,505,BC,Saanich,Owner Occupied,First Mortgage,Purchase,approved,2022-02-03
+124296,26,1104,20,294000,0.0734,778,AB,Red Deer,Owner Occupied,First Mortgage,Purchase,approved,2022-05-30
+124297,12,1610,20,693500,0.0714,586,ON,Barrie,Rental ,First Mortgage,refinance,approved,2022-07-07
+124298,27,1222,3,794500,0.0699,897,ON,Whitby,Owner Occupied,Second Mortgage,refinance,approved,2022-09-26
+124299,33,2024,13,219000,0.0754,658,ON,Kingston,Owner Occupied,Second Mortgage,refinance,funded,2022-07-19
+124300,13,2145,12,460000,0.0754,600,BC,Langford,Rental,Second Mortgage,refinance,approved,2022-07-14
+124301,28,1599,18,230950,0.0794,687,ON,Oshawa,Rental,HELOC,refinance,funded,2022-09-26
+124302,28,2741,9,345000,0.0689,800,AB,Calgary,Rental,First Mortgage,refinance,approved,2022-11-16
+124303,26,2483,14,450000,0.0759,639,BC,Coquitlam,Rental,HELOC,refinance,cancelled,2022-08-25
+124304,30,2931,5,450000,0.0794,745,ON,Pickering,Rental,First Mortgage,refinance,approved,2022-09-15
+124305,21,2591,3,760000,0.0794,639,BC,Chilliwack,Rental,HELOC,refinance,funded,2022-12-25
+124306,15,1860,4,198000,0.0704,874,MB,Winnipeg,Rental,Second Mortgage,refinance,funded,2022-07-10
+124307,31,2315,12,333000,0.0674,548,AB,Edmonton,Rental,HELOC,refinance,funded,2022-08-16
+124308,21,2896,21,987000,0.0714,710,ON,Windsor,Rental,HELOC,refinance,declined,2022-08-08
+124309,30,1144,9,985500,0.0689,658,AB,Calgary,Rental,HELOC,refinance,funded,2022-09-29
+124310,28,2841,10,432000,0.0809,870,NL,St. Johns,Rental,HELOC,refinance,declined,2022-09-16
+124311,19,1318,21,300000,0.0814,650,AB,Calgary,Rental,Second Mortgage,refinance,funded,2022-02-21
+124312,21,1969,10,395600,0.0754,656,BC,Burnaby,Rental,Second Mortgage,refinance,approved,2022-07-19
+124313,22,2024,4,890000,0.0699,872,ON,Stoney Creek,Rental ,First Mortgage,refinance,funded,2022-03-10
+124314,21,2842,7,456500,0.0669,582,BC,Burnaby,Owner Occupied,First Mortgage,Purchase,declined,2022-06-23
+124315,24,1301,7,220000,0.0699,598,BC,Burnaby,Owner Occupied,Second Mortgage,refinance,declined,2022-06-21
+124316,13,1824,8,123000,0.0744,639,AB,Edmonton,Rental ,First Mortgage,refinance,funded,2022-11-20
+124317,12,1747,1,239500,0.0664,549,ON,Stoney Creek,Owner Occupied,Second Mortgage,Purchase,funded,2022-06-13
+124318,14,2513,2,450000,0.0669,785,ON,Stoney Creek,Owner Occupied,First Mortgage,refinance,declined,2022-02-17
+124319,36,2356,7,350000,0.0689,639,SK,Saskatoon,Rental ,First Mortgage,refinance,declined,2022-07-03
+124320,14,2345,12,1125500,0.0684,673,ON,Sudbury,Owner Occupied,Second Mortgage,refinance,approved,2022-09-15
+124321,17,2235,1,1320500,0.0654,685,AB,Edmonton,Owner Occupied,First Mortgage,refinance,funded,2022-10-03
+124322,24,2516,10,140000,0.0744,647,ON,Cornwall,Rental ,HELOC,refinance,funded,2022-08-17
+124323,16,2368,2,1200000,0.0704,650,BC,Burnaby,Owner Occupied,HELOC,refinance,declined,2022-03-27
+124324,14,1264,15,999000,0.0774,578,NS,Halifax,Owner Occupied,HELOC,refinance,funded,2022-07-27
+124325,14,2412,12,234000,0.0754,650,ON,Toronto,Rental ,HELOC,refinance,approved,2022-08-09
+124326,20,1169,9,765000,0.0814,639,BC,Burnaby,Owner Occupied,First Mortgage,refinance,funded,2022-06-23
+124327,19,1015,5,406600,0.0729,568,ON,Hamilton,Owner Occupied,HELOC,refinance,funded,2022-05-12
+124328,25,2173,3,340950,0.0694,548,BC,Burnaby,Rental ,HELOC,refinance,approved,2022-08-02
+124329,31,1455,19,450510,0.0724,685,ON,Brampton,Owner Occupied,HELOC,refinance,approved,2022-08-08
+124330,21,1327,9,1000000,0.0759,639,ON,Oakville,Owner Occupied,First Mortgage,refinance,approved,2022-10-13
+124331,21,2416,13,555000,0.0744,639,AB,Edmonton,Rental ,First Mortgage,refinance,funded,2022-07-20
+124332,26,2309,16,1500500,0.0664,710,ON,Mississauga,Owner Occupied,HELOC,refinance,declined,2022-12-01
+124333,16,2145,3,125000,0.0694,479,BC,Vancouver,Owner Occupied,First Mortgage,refinance,funded,2022-12-11
+124334,21,2268,20,395500,0.0744,656,SK,Saskatoon,Rental ,First Mortgage,Purchase,funded,2022-12-12
+124335,33,2782,4,120000,0.0664,639,ON,Etobicoke,Owner Occupied,First Mortgage,Purchase,cancelled,2022-05-26
+124336,21,1417,16,230000,0.0764,659,ON,Etobicoke,Owner Occupied,HELOC,refinance,cancelled,2022-12-29
+124337,22,2894,13,456500,0.0674,639,ON,Markham,Rental ,First Mortgage,Purchase,funded,2022-08-15
+124338,30,1503,6,340950,0.0794,568,BC,Red Deer,Owner Occupied,HELOC,refinance,funded,2022-01-04
+124339,14,2601,6,888000,0.0764,897,ON,Barrie,Owner Occupied,Second Mortgage,refinance,declined,2022-08-08
+124340,28,2245,16,125000,0.0684,639,BC,Vancouver,Rental ,HELOC,refinance,declined,2022-09-06
+124341,34,2935,11,240950,0.0694,865,BC,Vancouver,Owner Occupied,First Mortgage,refinance,funded,2022-06-28
+124342,23,1618,2,790000,0.0794,673,ON,North York,Owner Occupied,HELOC,refinance,declined,2022-09-07
+124343,32,1340,10,346000,0.0674,848,AB,Edmonton,Rental ,HELOC,refinance,funded,2022-12-21
+124344,26,1350,5,1200000,0.0704,872,AB,Edmonton,Owner Occupied,First Mortgage,Purchase,cancelled,2022-05-17
+124345,29,1584,7,140000,0.0794,979,MB,Winnipeg,Owner Occupied,HELOC,refinance,declined,2022-05-13
+124346,13,2962,13,128300,0.0664,639,BC,Vancouver,Rental ,HELOC,refinance,cancelled,2022-06-17
+124347,25,2108,4,420000,0.0794,510,AB,Calgary,Owner Occupied,First Mortgage,Purchase,funded,2022-10-03
+124348,33,1650,20,1320500,0.0794,510,AB,Calgary,Owner Occupied,Second Mortgage,refinance,funded,2022-08-10
+124349,21,1211,20,605000,0.0774,489,ON,Brantford,Rental ,HELOC,refinance,declined,2022-06-14
+124350,34,2814,18,1300500,0.0754,598,ON,Brantford,Owner Occupied,First Mortgage,refinance,declined,2022-08-03
+124351,16,1588,15,450000,0.0754,848,ON,Brantford,Owner Occupied,HELOC,refinance,declined,2022-03-20
+124352,20,2773,12,432000,0.0664,487,ON,Kingston,Rental ,First Mortgage,Purchase,approved,2022-06-29
+124353,21,2970,18,325100,0.0764,568,AB,Calgary,Owner Occupied,Second Mortgage,refinance,declined,2022-03-22
+124354,20,2011,7,555000,0.0664,545,AB,Calgary,Owner Occupied,First Mortgage,refinance,funded,2022-11-23
+124355,28,1543,8,450000,0.0704,688,AB,Calgary,Rental ,HELOC,refinance,approved,2022-06-13
+124356,9,1402,17,340950,0.0794,800,NL,St. Johns,Owner Occupied,First Mortgage,refinance,funded,2022-06-14
+124357,10,1882,5,1200000,0.0809,568,BC,Vancouver,Owner Occupied,HELOC,refinance,funded,2022-12-08
+124358,15,1026,18,890000,0.0734,874,ON,Brantford,Rental ,First Mortgage,refinance,funded,2022-08-18
+124359,7,2208,17,765000,0.0774,500,BC,Vancouver,Owner Occupied,Second Mortgage,refinance,funded,2022-03-09
+124360,29,2462,2,300000,0.0779,650,NL,St. Johns,Owner Occupied,HELOC,refinance,funded,2022-09-15
+124361,16,1719,15,100000,0.0779,639,ON,Georgetown,Rental ,First Mortgage,Purchase,funded,2022-01-31
+124362,10,2343,6,230950,0.0684,568,ON,Niagara Falls,Owner Occupied,HELOC,refinance,funded,2022-06-23
+124363,27,2174,13,395500,0.0764,548,BC,Vancouver,Owner Occupied,HELOC,refinance,funded,2022-07-12
+124364,8,2776,12,450000,0.0814,685,AB,Calgary,Rental ,HELOC,refinance,funded,2022-08-09
+124365,19,2280,15,345000,0.0674,639,AB,Edmonton,Owner Occupied,First Mortgage,refinance,funded,2022-09-20
+124366,29,1536,9,432000,0.0734,639,ON,Niagara Falls,Owner Occupied,First Mortgage,refinance,funded,2022-09-07
+124367,33,2811,9,790000,0.0669,710,ON,Niagara Falls,Rental ,HELOC,refinance,funded,2022-05-03
+124368,28,2237,19,684500,0.0734,479,AB,Calgary,Owner Occupied,First Mortgage,Purchase,funded,2022-07-08
+124369,14,2600,12,604600,0.0754,656,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-08-11
+124370,13,1272,7,458000,0.0794,639,AB,Calgary,Rental ,HELOC,refinance,funded,2022-05-19
+124371,24,2223,1,420000,0.0724,659,ON,Waterloo,Owner Occupied,Second Mortgage,refinance,funded,2022-08-15
+124372,30,2253,17,111000,0.0699,639,ON,Waterloo,Owner Occupied,First Mortgage,refinance,funded,2022-07-28
+124373,33,2783,6,230950,0.0774,568,BC,Vancouver,Rental ,First Mortgage,refinance,funded,2022-04-11
+124374,33,1838,13,239000,0.0674,897,ON,London,Owner Occupied,Second Mortgage,refinance,funded,2022-10-06
+124375,31,1510,4,193500,0.0659,639,ON,London,Owner Occupied,Second Mortgage,refinance,funded,2022-08-22
+124376,9,2290,19,1200000,0.0664,865,AB,Calgary,Rental ,First Mortgage,Purchase,funded,2022-03-10
+124377,28,1211,13,765000,0.0734,673,BC,Surrey,Owner Occupied,First Mortgage,refinance,funded,2022-10-06
+124378,30,1754,1,140000,0.0714,848,SK,Regina,Owner Occupied,HELOC,refinance,funded,2022-03-09
+124379,35,1825,3,790000,0.0759,872,ON,North York,Rental ,First Mortgage,Purchase,funded,2022-04-10
+124380,14,2884,17,350000,0.0754,979,ON,Oshawa,Owner Occupied,HELOC,refinance,funded,2022-09-15
+124381,1,2805,16,908000,0.0654,639,ON,Pickering,Owner Occupied,Second Mortgage,refinance,funded,2022-07-05
+124382,6,2158,16,123000,0.0794,510,PEI,Charlottetown,Rental ,HELOC,refinance,funded,2022-05-29
+124383,8,2311,18,450000,0.0674,510,BC,Vancouver,Owner Occupied,First Mortgage,refinance,funded,2022-11-23
+124384,29,2711,1,100000,0.0664,650,AB,Edmonton,Owner Occupied,Second Mortgage,refinance,funded,2022-07-27
+124385,14,1218,15,876000,0.0734,639,AB,Edmonton,Rental ,Second Mortgage,refinance,funded,2022-04-07
+124386,1,2566,20,450000,0.0689,568,ON,Toronto,Owner Occupied,HELOC,refinance,funded,2022-01-30
+124387,28,1308,19,560500,0.0814,548,BC,Vancouver,Owner Occupied,Second Mortgage,refinance,funded,2022-06-02
+124388,34,1797,8,515000,0.0664,685,AB,Calgary,Rental ,First Mortgage,refinance,funded,2022-07-06
+124389,32,2532,18,605000,0.0664,639,ON,Toronto,Owner Occupied,Second Mortgage,refinance,funded,2022-08-11
+124390,7,1213,4,111000,0.0699,639,ON,Toronto,Owner Occupied,First Mortgage,Purchase,funded,2022-08-25
+124391,31,2247,8,395500,0.0809,710,AB,Calgary,Rental ,First Mortgage,refinance,funded,2022-03-16
+124392,19,2732,15,194500,0.0704,479,AB,Edmonton,Owner Occupied,HELOC,refinance,funded,2022-01-09
+124393,29,1365,12,238500,0.0664,656,BC,Vancouver,Owner Occupied,HELOC,refinance,funded,2022-05-31
+124394,19,2114,16,394500,0.0664,639,ON,Brantford,Rental ,HELOC,refinance,funded,2022-06-23
+124395,11,2635,5,708300,0.0809,659,ON,Brampton,Owner Occupied,HELOC,refinance,funded,2022-07-10
+124396,4,2696,13,708300,0.0764,639,ON,Brampton,Owner Occupied,HELOC,refinance,funded,2022-05-19
+124397,14,2413,4,350000,0.0764,568,ON,Etobicoke,Rental ,HELOC,refinance,funded,2022-07-28
+124398,22,2867,12,112500,0.0664,897,AB,Calgary,Owner Occupied,Second Mortgage,refinance,funded,2022-08-01
+124399,26,2335,17,19100,0.0704,639,AB,Edmonton,Owner Occupied,First Mortgage,pu,funded,2022-05-30
+124400,26,2705,4,205000,0.0714,865,AB,Calgary,Rental ,First Mortgage,refinance,funded,2022-08-29
+124401,3,2761,19,346000,0.0789,673,ON,Newmarket,Owner Occupied,First Mortgage,refinance,funded,2022-08-10
+124402,31,2293,3,693500,0.0714,848,ON,Newmarket,Owner Occupied,HELOC,refinance,funded,2022-06-15
+124403,32,2849,17,458000,0.0809,872,ON,Newmarket,Rental ,Second Mortgage,refinance,funded,2022-03-03
+124404,30,1962,1,100000,0.0674,979,AB,Edmonton,Owner Occupied,First Mortgage,refinance,funded,2022-07-31
+124405,10,2982,17,987000,0.0794,639,AB,Edmonton,Owner Occupied,HELOC,refinance,funded,2022-10-03
+124406,9,1362,5,456000,0.0664,510,ON,Niagara Falls,Rental ,First Mortgage,Purchase,funded,2022-09-07
+124407,3,1233,17,456000,0.0794,510,AB,Calgary,Owner Occupied,First Mortgage,Purchase,funded,2022-07-10
+124408,19,2896,3,220000,0.0814,650,BC,Vancouver,Owner Occupied,First Mortgage,Purchase,funded,2022-08-17
+124409,19,2759,14,100000,0.0699,639,AB,Edmonton,Rental ,HELOC,refinance,funded,2022-02-24
+124410,34,2422,9,458000,0.0794,568,BC,Vancouver,Owner Occupied,HELOC,refinance,funded,2022-07-12
+124411,1,2449,8,346000,0.0794,548,BC,Vancouver,Owner Occupied,First Mortgage,Purchase,funded,2022-12-19
+124412,14,1535,6,234600,0.0789,685,ON,Niagara Falls,Rental ,Second Mortgage,refinance,funded,2022-05-08
+124413,21,2061,11,432000,0.0684,639,ON,Niagara Falls,Owner Occupied,First Mortgage,refinance,funded,2022-09-20
+124414,29,2543,10,658000,0.0664,639,BC,Vancouver,Owner Occupied,Second Mortgage,refinance,funded,2022-12-28
+124415,33,2363,12,456500,0.0664,710,AB,Edmonton,Rental ,Second Mortgage,refinance,funded,2022-02-24
+124416,33,2779,10,654000,0.0689,479,ON,Niagara Falls,Owner Occupied,HELOC,refinance,funded,2022-06-05
+124417,34,1709,20,219000,0.0794,656,BC,Vancouver,Owner Occupied,First Mortgage,Purchase,funded,2022-09-05
+124418,18,1176,5,1000000,0.0754,639,AB,Edmonton,Rental ,Second Mortgage,refinance,funded,2022-11-28
+124419,28,2785,13,239000,0.0679,659,AB,Edmonton,Owner Occupied,First Mortgage,refinance,funded,2022-02-28
+124420,9,2531,1,293500,0.0689,639,AB,Calgary,Owner Occupied,First Mortgage,refinance,funded,2022-11-08
+124421,34,2211,4,678000,0.0669,568,AB,Calgary,Rental ,First Mortgage,refinance,funded,2022-08-28
+124422,4,2199,12,394500,0.0744,897,ON,Niagara Falls,Owner Occupied,Second Mortgage,refinance,funded,2022-03-22
+124423,12,2764,6,333000,0.0809,639,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-07-18
+124424,21,1946,16,230000,0.0664,865,ON,Niagara Falls,Rental ,First Mortgage,Purchase,funded,2022-07-08
+124425,22,1058,10,240950,0.0794,673,AB,Calgary,Owner Occupied,First Mortgage,Purchase,funded,2022-06-06
+124426,23,1025,6,1000000,0.0704,848,ON,Niagara Falls,Owner Occupied,First Mortgage,Purchase,funded,2022-06-23
+124427,17,2545,3,345000,0.0664,872,MB,Winnipeg,Rental ,Second Mortgage,refinance,funded,2022-08-29
+124428,23,2986,4,450000,0.0664,979,BC,Vancouver,Owner Occupied,HELOC,refinance,funded,2022-01-06
+124429,7,2202,20,670500,0.0809,639,BC,Vancouver,Owner Occupied,First Mortgage,refinance,funded,2022-07-21
+124430,20,2959,14,1230000,0.0684,510,ON,Scarborough,Rental ,HELOC,refinance,funded,2022-01-02
+124431,30,1573,6,908000,0.0764,510,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-12-05
+124432,9,2327,14,120000,0.0684,650,ON,Scarborough,Owner Occupied,Second Mortgage,refinance,funded,2022-02-10
+124433,35,2516,3,395000,0.0664,639,BC,Vancouver,Rental ,Second Mortgage,refinance,funded,2022-11-29
+124434,9,1762,5,450000,0.0689,568,ON,Oakville,Owner Occupied,HELOC,refinance,funded,2022-09-04
+124435,25,2267,10,234000,0.0699,548,AB,Calgary,Owner Occupied,First Mortgage,refinance,funded,2022-11-07
+124436,7,1416,16,100000,0.0674,685,ON,Oshawa,Rental ,First Mortgage,Purchase,funded,2022-01-24
+124437,9,2279,15,345000,0.0799,639,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-04-25
+124438,25,1712,10,730500,0.0724,639,ON,Pickering,Owner Occupied,HELOC,refinance,funded,2022-11-02
+124439,20,2706,16,560500,0.0664,710,AB,Calgary,Rental ,First Mortgage,Purchase,funded,2022-07-05
+124440,13,2032,4,194500,0.0739,479,ON,Pickering,Owner Occupied,First Mortgage,Purchase,funded,2022-06-28
+124441,1,2390,8,350000,0.0794,656,ON,Pickering,Owner Occupied,First Mortgage,Purchase,funded,2022-11-15
+124442,33,1604,11,876000,0.0689,639,BC,Vancouver,Rental ,Second Mortgage,refinance,funded,2022-01-31
+124443,25,2472,19,420000,0.0784,659,ON,Ajax,Owner Occupied,HELOC,refinance,funded,2022-01-27
+124444,15,1762,18,890000,0.0694,639,AB,Calgary,Owner Occupied,HELOC,refinance,funded,2022-03-06
+124445,21,2822,14,205000,0.0739,568,NS,Halifax,Rental ,First Mortgage,Purchase,funded,2022-04-10
+124446,22,2734,14,395000,0.0784,897,BC,Victoria,Owner Occupied,HELOC,refinance,funded,2022-05-25
+124447,13,2708,19,111000,0.0664,639,BC,Victoria,Owner Occupied,Second Mortgage,refinance,funded,2022-03-27
+124448,14,1479,18,345000,0.0784,865,BC,Kamloops,Rental ,First Mortgage,Purchase,funded,2022-08-04
+124449,28,2281,7,605000,0.0794,673,BC,Kamloops,Owner Occupied,First Mortgage,refinance,funded,2022-12-14
+124450,12,1215,13,450000,0.0764,848,BC,Kelowna,Owner Occupied,First Mortgage,refinance,funded,2022-05-12
+124451,35,2349,13,543000,0.0679,872,AB,Calgary,Rental ,Second Mortgage,refinance,funded,2022-05-25
+124452,11,2526,11,876000,0.0714,979,BC,Nanaimo,Owner Occupied,Second Mortgage,refinance,funded,2022-07-12
+124453,2,2372,18,760000,0.0789,639,BC,Nanaimo,Owner Occupied,First Mortgage,Purchase,funded,2022-04-25
+124454,22,1971,19,350000,0.0744,510,ON,Mississauga,Rental ,HELOC,refinance,funded,2022-04-28
+124455,8,1091,2,205000,0.0764,510,AB,Calgary,Rental ,Second Mortgage,refinance,funded,2022-10-09
