@@ -61,7 +61,7 @@ WHERE
 GROUP BY province
 ORDER BY totalfunded ASC;
 ```
-<img src="sqltableau2.png" width="800" />
+<img src="sqltableau2.png" width="200" />
 
 ## Data Visualization
 
