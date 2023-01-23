@@ -9,7 +9,7 @@ layout: post
 
 <font size = "2">This is simply a brief outline of the project as this particular project is company-related (and therefore proprietary). 
 I've put this together by creating a relational database, running queries through SQL to gain meaningful insights and visualizing the data using Tableau. </font>
-
+&nbsp;
 Examples of use cases: 
 * <font size = "2">Outline the number of funded loans by underwriter on a monthly and yearly basis to measure output across the team to measure performance </font>
 * <font size = "2">Determine the average interest rate by underwriter relative to the average rate across the entire team</font>
