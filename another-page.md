@@ -24,7 +24,7 @@ Examples of use cases:
 
 ## SQL Portion
 
-&emsp; <font size = "2">As a quick synopsis, I created the below relational database for mortgage brokerage. Only mock data was used in the creation of this project. </font>
+&emsp; <font size = "2">As a quick synopsis, I created the below relational database for a hypothetical mortgage brokerage. Only mock data was used in the creation of this project. </font>
 
 <img src="schema.png" width="800" />
 
@@ -67,6 +67,8 @@ ORDER BY totalfunded ASC;
 
 ## <font size = "2"> Window functions ft. PARTITON BY clause </font>
 
+The below query quantifies the number of deals that have originated from each broker and orders them from highest to lowest.
+
 ```sql
 SELECT DISTINCT 
 	name,
@@ -79,6 +81,8 @@ ON deals.brokerid = brokers.id;
 <img src="windows.png" width="200" />
 
 ## <font size = "2"> Subqueries </font>
+
+The below query picks up deal information from only the deal(s) with the largest loan amount funded.
 
 ```sql
 SELECT 
@@ -95,6 +99,8 @@ WHERE
 <img src="subqueries.png" width="200" />
 
 ## <font size = "2"> Case statements </font>
+
+The below query uses case statements to categorize clients by their credit bureau score.
 
 ```sql
 SELECT name, cbscore,
