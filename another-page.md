@@ -49,6 +49,20 @@ GROUP BY name
 ORDER BY totaldeals DESC LIMIT 10;
 ```
 
+The below query quantifies the grand total of funded loans per province and orders them from lowest to highest.
+
+```sql
+SELECT 
+    SUM(loanamount) AS totalfunded, province
+FROM
+    deals
+WHERE
+    status = 'funded'
+GROUP BY province
+ORDER BY totalfunded ASC;
+```
+<img src="sqltableau2.png" width="800" />
+
 ## Data Visualization
 
 <img src="tableau1.png" width="800" />
