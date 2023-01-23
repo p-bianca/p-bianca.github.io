@@ -121,7 +121,7 @@ JOIN deals ON clients.id = deals.clientid;
 
 The below visualizations were created on Tableau using the same relational database used above.
 
-They can also be viewed directly on Tableau Public following [this](https://public.tableau.com/views/Portfolio-p-bianca/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) link.
+My dashboard can also be viewed directly on Tableau Public following [this](https://public.tableau.com/views/Portfolio-p-bianca/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) link.
 
 <img src="tableau1.png" width="800" />
 &nbsp;
