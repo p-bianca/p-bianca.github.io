@@ -28,7 +28,13 @@ Examples of use cases:
 
 <img src="https://imgur.com/a/vbw2WQ1" alt="Schema" style="height: 100px; width:100px;"/>
 
+<img title="a title" alt="Alt text" src="C:\Users\pquib\OneDrive\Documents\portfolio\p-bianca.github.io\schema.png">
+
+<img title="a title" alt="Alt text" src="p-bianca.github.io\schema.png">
+
 ## <font size = "2"> Using joins and aggregate functions </font>
+
+
 
 <font size = "2"></font>
 
