@@ -69,7 +69,7 @@ ORDER BY totalfunded ASC;
 
 ## <font size = "2"> Window functions ft. PARTITON BY clause </font>
 
-The below query quantifies the number of deals that have originated from each broker and orders them from highest to lowest.
+The below query quantifies the number of deals that have originated from each broker.
 
 ```sql
 SELECT DISTINCT 
