@@ -48,6 +48,7 @@ FROM
 GROUP BY name
 ORDER BY totaldeals DESC LIMIT 10;
 ```
+<img src="joins.png" width="200" />
 
 The below query quantifies the grand total of funded loans per province and orders them from lowest to highest.
 
@@ -74,6 +75,40 @@ FROM deals
 JOIN brokers 
 ON deals.brokerid = brokers.id;
 ```
+
+<img src="windows.png" width="200" />
+
+## <font size = "2"> Subqueries </font>
+
+```sql
+SELECT 
+    brokerid, loanamount, city, rate
+FROM
+    deals
+WHERE
+    loanamount = (SELECT 
+            MAX(loanamount)
+        FROM
+            deals);
+```
+
+<img src="subqueries.png" width="200" />
+
+## <font size = "2"> Case statements </font>
+
+```sql
+SELECT name, cbscore,
+CASE
+WHEN cbscore < 559 THEN 'poor'
+WHEN cbscore BETWEEN 560 AND 659 THEN 'fair'
+WHEN cbscore BETWEEN 660 AND 724 THEN 'good'
+WHEN cbscore BETWEEN 725 AND 759 THEN 'very good'
+ELSE 'excellent'
+END AS cbranges FROM clients
+JOIN deals ON clients.id = deals.clientid;
+```
+<img src="casestmts.png" width="200" />
+
 ## Data Visualization
 
 The below visualizations were created on Tableau using the same relational database used above.
