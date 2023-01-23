@@ -28,9 +28,12 @@ Examples of use cases:
 
 <img src="schema.png" width="800" />
 
-Here's a quick snapshot of what the data looks like within all 4 tables. 
+Below are quick links to the tables for reference. 
 
-<img src="tables.png" width="800" />
+[link to deals raw data CSV file](./deals.csv)   
+[link to brokers raw data CSV file](./brokers.csv)       
+[link to institutions raw data CSV file](./institutions.csv)  
+[link to clients raw data CSV file](./clients.csv)    
 
 ## <font size = "2"> Using joins and aggregate functions </font>
 
@@ -44,10 +47,11 @@ FROM
 GROUP BY name
 ORDER BY totaldeals DESC LIMIT 10;
 ```
+<img src="tableau1.png" width="800" />
+<img src="tableau2.png" width="800" />
+<img src="tableau3.png" width="800" />
+<img src="tableau4.png" width="800" />
 
-[link](file:///d:/absolute.md)    # absolute filesystem path
-[link](./brokers.csv)            # relative to opened file
-[link](/brokers.csv)     # relative to opened project
 
 <font size = "2"></font>
 
