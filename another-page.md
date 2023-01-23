@@ -34,6 +34,8 @@ Examples of use cases:
 
 ![ttttext](https://github.com/p-bianca/p-bianca.github.io/blob/main/schema.png "a title")
 
+<img src="schema.png" width="800" />
+
 ## <font size = "2"> Using joins and aggregate functions </font>
 
 ```sql
