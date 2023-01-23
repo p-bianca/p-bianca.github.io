@@ -9,7 +9,7 @@ layout: post
 
 ## Bank Data Analysis Project
 
-&emsp; <font size = "2">This is simpla a brief outline of the project as this particular project is company-related (and therefore proprietary). 
+&emsp; <font size = "2">This is simply a brief outline of the project as this particular project is company-related (and therefore proprietary). 
 I've put this together by creating a relational database, running queries through SQL to gain meaningful insights and visualizing the data using Tableau. </font>
 
 Examples of use cases: 
@@ -24,17 +24,11 @@ Examples of use cases:
 
 ## Mortgage Brokerage Analysis Project
 
-&emsp; <font size = "2">As a quick synopsis, I created a relational database for mortgage brokerage. Only mock data was used in the creation of this project. </font>
-
-<img src="https://imgur.com/a/vbw2WQ1" alt="Schema" style="height: 100px; width:100px;"/>
-
-<img title="a title" alt="Alt text" src="C:\Users\pquib\OneDrive\Documents\portfolio\p-bianca.github.io\schema.png">
-
-<img title="a title" alt="Alt text" src="p-bianca.github.io\schema.png">
-
-![ttttext](https://github.com/p-bianca/p-bianca.github.io/blob/main/schema.png "a title")
+&emsp; <font size = "2">As a quick synopsis, I created the below relational database for mortgage brokerage. Only mock data was used in the creation of this project. </font>
 
 <img src="schema.png" width="800" />
+
+<img src="tables.png" width="800" />
 
 ## <font size = "2"> Using joins and aggregate functions </font>
 
