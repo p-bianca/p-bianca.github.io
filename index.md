@@ -11,6 +11,7 @@ personal and small business banking, residential mortgage origination as well as
 Natural investigator with a strong understanding of fraud risk and anti-money laundering (AML) prevention and detection within
 financial institutions. Brings forth an Honors Bachelor of Commerce degree with a specialization in accounting and minor in
 economics. Solutions-oriented leader that enjoys problem solving as well as working with and analyzing data. 
+...
 </font>
 
 *****
@@ -76,4 +77,6 @@ of medium to high complexity across a variety of asset classes surpassing a comb
 into further support and growth to the bank’s book of business</font>
 * <font size = "2">Demonstrated a detailed working knowledge of fraud risk through identifying cues of suspicious activity and using investigative
 techniques to gather, analyze and document relevant data for compliance and quality assurance purposes  </font>
-...
+&nbsp;
+&nbsp;
+&nbsp;
