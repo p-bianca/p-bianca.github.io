@@ -6,7 +6,7 @@ layout: default
 ## ABOUT ME
 
 <font size= "2"> 
-Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combined and well-rounded banking experience within personal and small business banking, residential mortgage origination as well as commercial lending, business analysis, and reporting. Natural investigator with a strong understanding of fraud risk and anti-money laundering (AML) prevention and detection within financial institutions. Brings forth an Honors Bachelor of Commerce degree with a specialization in accounting and minor in economics. Solutions-oriented leader that enjoys problem solving as well as working with and analyzing data. l 
+Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combined and well-rounded banking experience within personal and small business banking, residential mortgage origination as well as commercial lending, business analysis, and reporting. Natural investigator with a strong understanding of fraud risk and anti-money laundering (AML) prevention and detection within financial institutions. Brings forth an Honors Bachelor of Commerce degree with a specialization in accounting and minor in economics. Solutions-oriented leader that enjoys problem solving as well as working with and analyzing data. ppppppppppppppp 
 </font>
 
 *****
@@ -64,6 +64,3 @@ Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combin
 * <font size = "2">Acted as a team lead to 8 colleagues as a seasoned employee, translating to outstanding team results across the organization</font>
 * <font size = "2">Cultivated productive relationships through strong collaboration with internal and external business partners which materialized into further support and growth to the bank’s book of business</font>
 * <font size = "2">Demonstrated a detailed working knowledge of fraud risk through identifying cues of suspicious activity and using investigative techniques to gather, analyze and document relevant data for compliance and quality assurance purposes  </font>
-&nbsp;
-&nbsp;
-&nbsp;
