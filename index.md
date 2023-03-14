@@ -55,7 +55,7 @@ Experienced and driven Senior Mortgage Underwriter with over 6.5 years of combin
 *	<font size = "2">Showcased a strong ability to manage and work through large sets of data when conducting a myriad of detailed annual reviews of medium to high complexity across a variety of asset classes surpassing a combined exposure of $800MM</font>
 *   <font size = "2">Exemplified strong business acumen through evaluating risk and reward when preparing high quality loan proposals</font>
 
-**Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   June 2016 – March 2020
+**Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   June 2016 – March 202
 
 *Oakville, Ontario* 
 &nbsp;
