@@ -59,14 +59,11 @@ investigative techniques to gather, analyze and document relevant data for compl
 
 * <font size = "2"> Constructed monthly, quarterly and ad-hoc reports with a high degree of data integrity for Management to track, monitor and
 remediate issues for a large number of loans being managed within the commercial portfolio  </font>      
-
 *   <font size = "2">ELiaised with applicable business units to understand relevant data and its source, identify business gaps and develop solutions to
 meet the goals and objectives of the Business Banking Group</font>
-
 *	<font size = "2">Showcased a strong ability to manage and work through large sets of data when conducting a myriad of detailed annual reviews
 of medium to high complexity across a variety of asset classes surpassing a combined exposure of $800MM 
 </font>
-
 *   <font size = "2">P Exemplified strong business acumen through evaluating risk and reward when preparing high quality loan proposals 
  </font>
 
