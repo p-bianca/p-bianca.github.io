@@ -63,7 +63,6 @@ remediate issues for a large number of loans being managed within the commercial
 meet the goals and objectives of the Business Banking Group</font>
 *	<font size = "2">Showcased a strong ability to manage and work through large sets of data when conducting a myriad of detailed annual reviews
 of medium to high complexity across a variety of asset classes surpassing a combined exposure of $800MM</font>
-
 *   <font size = "2">Exemplified strong business acumen through evaluating risk and reward when preparing high quality loan proposals</font>
 
 **Member Consultant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   June 2016 – March 2020
@@ -73,7 +72,6 @@ of medium to high complexity across a variety of asset classes surpassing a comb
 
 * <font size = "2">Expedited the underwriting process by 60% utilizing Excel which improved team efficiency and customer satisfaction </font>
 * <font size = "2">Acted as a team lead to 8 colleagues as a seasoned employee, translating to outstanding team results across the organization</font>
-
 * <font size = "2">Cultivated productive relationships through strong collaboration with internal and external business partners which materialized
 into further support and growth to the bank’s book of business</font>
 * <font size = "2">Demonstrated a detailed working knowledge of fraud risk through identifying cues of suspicious activity and using investigative
