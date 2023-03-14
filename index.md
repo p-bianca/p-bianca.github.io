@@ -76,3 +76,4 @@ of medium to high complexity across a variety of asset classes surpassing a comb
 into further support and growth to the bank’s book of business</font>
 * <font size = "2">Demonstrated a detailed working knowledge of fraud risk through identifying cues of suspicious activity and using investigative
 techniques to gather, analyze and document relevant data for compliance and quality assurance purposes  </font>
+...
